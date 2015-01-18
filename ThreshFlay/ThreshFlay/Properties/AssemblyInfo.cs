@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TowerDiver")]
+[assembly: AssemblyTitle("ThreshFlay")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TowerDiver")]
+[assembly: AssemblyProduct("ThreshFlay")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e458087a-91d1-4054-802b-cc2e08318c7b")]
+[assembly: Guid("a0ae98ae-00b1-48a0-8c62-f9ad75c1cbcf")]
 
 // Version information for an assembly consists of the following four values:
 //
