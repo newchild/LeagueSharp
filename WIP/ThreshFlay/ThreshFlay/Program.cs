@@ -129,11 +129,6 @@ namespace ThreshFlay
                     return;
                 }
             }
-
-            if (E.IsReady() && (Config.Item("UseECombo").GetValue<bool>()))
-            {
-                
-            }
         }
 
     }
