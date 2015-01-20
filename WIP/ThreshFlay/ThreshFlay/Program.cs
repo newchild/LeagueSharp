@@ -32,20 +32,9 @@ namespace ThreshFlay
                 return;
 
             E = new Spell(SpellSlot.E, 400);
-            Config = new Menu(Player.ChampionName + " Flay", Player.ChampionName, true);
-            Menu orbwalkerMenu = Config.AddSubMenu(new Menu("Orbwalker", "Orbwalker"));
-            Orbwalker = new Orbwalking.Orbwalker(orbwalkerMenu);
-            Menu ts = Config.AddSubMenu(new Menu("Target Selector", "Target Selector")); ;
-            TargetSelector.AddToMenu(ts);
-            Menu spellMenu = Config.AddSubMenu(new Menu("Spells", "Spells"));
-            spellMenu.AddItem(new MenuItem("FlayBackwards", "Flay Backwards").SetValue(new KeyBind(32, KeyBindType.Press)));
-            spellMenu.AddItem(new MenuItem("FlayForwards", "Flay forwards").SetValue(new KeyBind(0x43, KeyBindType.Press)));
-            spellMenu.AddItem(new MenuItem("ConstantFlay Forwards", "Toggle").SetValue(new KeyBind(0x54, KeyBindType.Toggle)));
-
+            Config = new Menu(Player.ChampionName + " Flayer", Player.ChampionName, true);
+     
             Config.AddToMainMenu();
-
-            Game.PrintChat(Smileys);
-            Game.PrintChat("Provided by KappaStack");
         }
 
         private static void Game_OnGameUpdate(EventArgs args)
@@ -54,16 +43,6 @@ namespace ThreshFlay
         }
 
         private static void Drawing_OnDraw(EventArgs args)
-        {
-
-        }
-
-        private void flayForwards()
-        {
-
-        }
-
-        private void flayBackwards()
         {
 
         }
