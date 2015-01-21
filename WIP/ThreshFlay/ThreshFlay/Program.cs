@@ -26,7 +26,6 @@ namespace ThreshFlay
         private static List<Spell> SpellList = new List<Spell>();
         private static Menu Config;
         private static System.Speech.Synthesis.SpeechSynthesizer SpeechSynthesizer;
-        private static System.Drawing.Color SpellAvaibilityColor = Color.Turquoise;
 
         static void Main(string[] args)
         {
@@ -76,6 +75,7 @@ namespace ThreshFlay
             Config.SubMenu("Combo").AddItem(new MenuItem("UseQCombo", "Use Q")).SetValue(true);
             Config.SubMenu("Combo").AddItem(new MenuItem("UseECombo", "Use E")).SetValue(true);
             Config.SubMenu("Combo").AddItem(new MenuItem("ActiveCombo", "Combo!").SetValue(new KeyBind(32, KeyBindType.Press)));
+            Config.SubMenu("Combo").AddItem(new MenuItem("UsePacketCast", "Use Packets")).SetValue(true);
 
             //drawing submenu
             Config.AddSubMenu(new Menu("Drawings", "Drawings"));
@@ -91,15 +91,13 @@ namespace ThreshFlay
             Game.OnGameUpdate += Game_OnGameUpdate;
             Drawing.OnDraw += Drawing_OnDraw;
             //Speech welcome message
-            /*
+            SpeechSynthesizer = new System.Speech.Synthesis.SpeechSynthesizer();
             SpeechSynthesizer.Volume = 100;
             SpeechSynthesizer.GetInstalledVoices();
             SpeechSynthesizer.SelectVoice("Microsoft Zira Desktop");
             SpeechSynthesizer.SetOutputToDefaultAudioDevice();
-            SpeechSynthesizer.Speak("Mein Neger kappa"); // :^), to be edited
-             * 
-             * Non-Functional atm
-             */
+            SpeechSynthesizer.Speak("Thresh flayer, rek em son"); // :^), to be edited
+   
 
             #endregion Menus
         }
@@ -108,7 +106,7 @@ namespace ThreshFlay
         private static void Game_OnGameUpdate(EventArgs args)
         {
             if (Config.Item("ActiveCombo").GetValue<KeyBind>().Active)
-            {    
+            {   
                 Combo();
             }
         }
@@ -120,27 +118,30 @@ namespace ThreshFlay
             {
                 return;
             }
-
+            var usePacketCast = Config.Item("UsePacketCast").GetValue<bool>();
             if (E.IsReady() && (Config.Item("UseECombo").GetValue<bool>()))
             {
+                var predictionE = E.GetPrediction(target);
+                var predictionQ = Q.GetPrediction(target);
                 if (Q.IsReady() && (Config.Item("UseQCombo").GetValue<bool>()))
                 {
-                    //cast E then Q
+                    E.Cast(predictionE.CastPosition.SetZ(predictionE.CastPosition.X * -1), usePacketCast);
+                    Q.CastIfHitchanceEquals(target, HitChance.High, usePacketCast);
                 }
                 else
                 {
-                    //just cast E
+                    E.Cast(predictionE.CastPosition.SetZ(predictionE.CastPosition.X * -1), usePacketCast);
                 }
             }
             else
             {
                 if (Q.IsReady() && (Config.Item("UseQCombo").GetValue<bool>()))
                 {
-                    //Just cast Q
+                    Q.CastIfHitchanceEquals(target, HitChance.High, usePacketCast);
                 }
                 else
                 {
-                    return; //exit logic
+                    return;
                 }
             }
         }
@@ -161,16 +162,46 @@ namespace ThreshFlay
             {
                 if (Config.SubMenu("Drawings").Item("DrawQ").GetValue<bool>())
                 {
-                    Render.Circle.DrawCircle(Player.Position, 1100,SpellAvaibilityColor);
+                    if (Q.Level >= 1)
+                    {
+                        if (Q.IsReady() == true)
+                        {
+                            Render.Circle.DrawCircle(Player.Position, 1100, Color.Green);
+                        }
+                        else
+                        {
+                            Render.Circle.DrawCircle(Player.Position, 1100, Color.DarkRed);
+                        }
+                    }
                 }
                 if (Config.SubMenu("Drawings").Item("DrawW").GetValue<bool>())
                 {
-                    Render.Circle.DrawCircle(Player.Position, 950, SpellAvaibilityColor);
+                    if (W.Level >= 1)
+                    {
+                        if (W.IsReady() == true)
+                        {
+                            Render.Circle.DrawCircle(Player.Position, 950, Color.Green);
+                        }
+                        else
+                        {
+                            Render.Circle.DrawCircle(Player.Position, 950, Color.DarkRed);
+                        }
+                    }
                 }
 
                 if (Config.SubMenu("Drawings").Item("DrawE").GetValue<bool>())
                 {
-                    Render.Circle.DrawCircle(Player.Position, 400, SpellAvaibilityColor);
+                    if (E.Level >= 1)
+                    {
+                        if (E.IsReady() == true)
+                        {
+                            Render.Circle.DrawCircle(Player.Position, 400, Color.Green);
+                        }
+                        else
+                        {
+                            Render.Circle.DrawCircle(Player.Position, 400, Color.DarkRed);
+                        }
+                    }
                 }
             }
         }
