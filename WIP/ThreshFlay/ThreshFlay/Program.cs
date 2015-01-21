@@ -27,7 +27,6 @@ namespace ThreshFlay
         private static Menu Config;
         private static System.Speech.Synthesis.SpeechSynthesizer SpeechSynthesizer;
         private static System.Drawing.Color SpellAvaibilityColor = Color.Turquoise;
-        private static Int16 CircleWidth = 5;
 
         static void Main(string[] args)
         {
@@ -37,9 +36,6 @@ namespace ThreshFlay
         #region OnGameLoad
         private static void Game_OnGameLoad(EventArgs args)
         {
-            Game.OnGameUpdate += Game_OnGameUpdate;
-            Drawing.OnDraw += Drawing_OnDraw;
-
             //checking if champion is thresh
             if (ObjectManager.Player.BaseSkinName != Champion)
             {
@@ -87,14 +83,13 @@ namespace ThreshFlay
             Config.SubMenu("Drawings").AddItem(new MenuItem("DrawQ", "Draw Q")).SetValue(true);
             Config.SubMenu("Drawings").AddItem(new MenuItem("DrawW", "Draw W")).SetValue(true);
             Config.SubMenu("Drawings").AddItem(new MenuItem("DrawE", "Draw E")).SetValue(true);
-            //not yet implemented methods
-            //Config.SubMenu("Drawings").AddItem(new MenuItem("CircleLag", "Lag Free Circles").SetValue(true));
-            //Config.SubMenu("Drawings").AddItem(new MenuItem("CircleQuality", "Circles Quality").SetValue(new Slider(10, 100, 10)));
-            //Config.SubMenu("Drawings").AddItem(new MenuItem("CircleThickness", "Circles Thickness").SetValue(new Slider(1, 10, 1)));
 
             // add it to mainMenu duuuh
             Config.AddToMainMenu();
 
+            //subcribe to various events
+            Game.OnGameUpdate += Game_OnGameUpdate;
+            Drawing.OnDraw += Drawing_OnDraw;
             //Speech welcome message
             /*
             SpeechSynthesizer.Volume = 100;
@@ -166,16 +161,16 @@ namespace ThreshFlay
             {
                 if (Config.SubMenu("Drawings").Item("DrawQ").GetValue<bool>())
                 {
-                    Render.Circle.DrawCircle(Player.Position, 1100, SpellAvaibilityColor, CircleWidth);
+                    Render.Circle.DrawCircle(Player.Position, 1100,SpellAvaibilityColor);
                 }
                 if (Config.SubMenu("Drawings").Item("DrawW").GetValue<bool>())
                 {
-                    Render.Circle.DrawCircle(Player.Position, 950, SpellAvaibilityColor, CircleWidth);
+                    Render.Circle.DrawCircle(Player.Position, 950, SpellAvaibilityColor);
                 }
 
                 if (Config.SubMenu("Drawings").Item("DrawE").GetValue<bool>())
                 {
-                    Render.Circle.DrawCircle(Player.Position, 400, SpellAvaibilityColor, CircleWidth);
+                    Render.Circle.DrawCircle(Player.Position, 400, SpellAvaibilityColor);
                 }
             }
         }
