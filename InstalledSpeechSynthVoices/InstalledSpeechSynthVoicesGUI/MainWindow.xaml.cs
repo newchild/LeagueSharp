@@ -21,7 +21,7 @@ namespace InstalledSpeechSynthVoicesGUI
     /// </summary>
     public partial class MainWindow : Window
     {
-        public static List installedVoices;
+        public static String[] installedVoices;
         public MainWindow()
         {
             InitializeComponent();
@@ -29,10 +29,33 @@ namespace InstalledSpeechSynthVoicesGUI
 
         private void GenerateButton_Click(object sender, RoutedEventArgs e)
         {
-            using (SpeechSynthesizer synth = new SpeechSynthesizer())
+            SpeechSynthesizer synthesizer = new SpeechSynthesizer();
             {
-               System.Speech.
+                installedVoices = new String[14];
+                Int64 i = 0;
+                String VoiceName;
+                foreach (InstalledVoice voice in synthesizer.GetInstalledVoices())
+                {
+                    VoiceInfo info = voice.VoiceInfo;
+                    VoiceName = info.Name.ToString();
+                    installedVoices.SetValue(VoiceName, i);
+                    i++;
+                }
             }
+            Label1.Content = installedVoices.GetValue(0);
+            Label2.Content = installedVoices.GetValue(1);
+            Label3.Content = installedVoices.GetValue(2);
+            Label4.Content = installedVoices.GetValue(3);
+            Label5.Content = installedVoices.GetValue(4);
+            Label6.Content = installedVoices.GetValue(5);
+            Label7.Content = installedVoices.GetValue(6);
+            Label8.Content = installedVoices.GetValue(7);
+            Label9.Content = installedVoices.GetValue(8);
+            Label10.Content = installedVoices.GetValue(9);
+            Label11.Content = installedVoices.GetValue(10);
+            Label12.Content = installedVoices.GetValue(11);
+            Label13.Content = installedVoices.GetValue(12);
+            Label14.Content = installedVoices.GetValue(13);
         }
     }
 }
