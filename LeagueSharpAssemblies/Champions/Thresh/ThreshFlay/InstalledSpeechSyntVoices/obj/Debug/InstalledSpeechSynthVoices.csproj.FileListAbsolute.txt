@@ -1,0 +1,7 @@
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\bin\Debug\InstalledSpeechSyntVoices.exe.config
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\bin\Debug\InstalledSpeechSyntVoices.exe
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\bin\Debug\InstalledSpeechSyntVoices.pdb
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\bin\Debug\InstalledSpeechSyntVoices.exe.CodeAnalysisLog.xml
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\bin\Debug\InstalledSpeechSyntVoices.exe.lastcodeanalysissucceeded
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\obj\Debug\InstalledSpeechSyntVoices.exe
+D:\github\LeagueSharp\WIP\ThreshFlay\InstalledSpeechSyntVoices\obj\Debug\InstalledSpeechSyntVoices.pdb

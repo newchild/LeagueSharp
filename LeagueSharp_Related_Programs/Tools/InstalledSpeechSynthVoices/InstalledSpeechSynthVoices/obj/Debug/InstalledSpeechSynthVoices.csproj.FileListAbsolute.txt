@@ -1,0 +1,1 @@
+D:\github\LeagueSharp\InstalledSpeechSynthVoices\InstalledSpeechSynthVoices\bin\Debug\InstalledSpeechSynthVoices.exe.config
