@@ -1,0 +1,38 @@
+﻿<Controls:MetroWindow
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro" xmlns:Properties="clr-namespace:EasySharpToolRework.Properties" 
+    x:Class="EasySharpToolRework.MainWindow"
+    Title="EasySharpTool Reworked" Height="350" Width="525"
+    >
+    <Grid>
+        <Label Content="EasySharpTool reworked" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" BorderThickness="1" BorderBrush="Black" HorizontalContentAlignment="Center" FontSize="18">
+            <Label.Effect>
+                <DropShadowEffect BlurRadius="1" ShadowDepth="1" Color="White" Opacity="0.3" RenderingBias="Quality"/>
+            </Label.Effect>
+        </Label>
+        <Button Content="Joduska.me" HorizontalAlignment="Left" Margin="10,87,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_2" FontSize="9.5"/>
+        <Button Content="Push" HorizontalAlignment="Left" Margin="85,283,0,0" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.616,1.907" Click="Button_Click_1"/>
+        <Button Content="HyunMi" HorizontalAlignment="Left" Margin="10,283,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click"/>
+        <Button Content="Announcements" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top" Width="99" FontSize="9" Click="Button_Click_3"/>
+        <Label Content="Credits to: HyunMi for the rework and  Push for the original version " HorizontalAlignment="Left" Margin="140,283,0,0" VerticalAlignment="Top" Width="367" HorizontalContentAlignment="Right"/>
+        <Label Content="Forums" HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top" Width="99" BorderThickness="1" BorderBrush="Black" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Button Content="Anti-Cheat" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top" Width="99" FontSize="10" Click="Button_Click_4"/>
+        <Button Content="Help Section" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_5"/>
+        <Button Content="ShoutBox" HorizontalAlignment="Left" Margin="10,237,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_7"/>
+        <Button Content="Forum Rules" HorizontalAlignment="Left" Margin="10,207,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_6"/>
+        <Label Content="DownLoads" HorizontalAlignment="Left" Margin="114,51,0,0" VerticalAlignment="Top" Width="99" BorderThickness="1" BorderBrush="Black" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Label Content="LeagueSharp" HorizontalAlignment="Left" Margin="218,51,0,0" VerticalAlignment="Top" Width="99" BorderThickness="1" BorderBrush="Black" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Label Content="LeagueSharp requirements" HorizontalAlignment="Left" Margin="322,51,0,0" VerticalAlignment="Top" Width="185" BorderThickness="1" BorderBrush="Black" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Button Content="Vcredist" HorizontalAlignment="Left" Margin="322,87,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click_8"/>
+        <Button Content="DirectX" HorizontalAlignment="Left" Margin="322,147,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click_10"/>
+        <Button Content=".NET Framework 4.5.1" HorizontalAlignment="Left" Margin="322,117,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click_9"/>
+        <Button Content="L# Teamspeak" HorizontalAlignment="Left" Margin="218,87,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button Content="LeagueSharp" HorizontalAlignment="Left" Margin="114,87,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button Content="Open AppData" HorizontalAlignment="Left" Margin="218,117,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button Content="Clear AppData" HorizontalAlignment="Left" Margin="218,147,0,0" VerticalAlignment="Top" Width="99" FontSize="9"/>
+        <Button Content="DataBase" HorizontalAlignment="Left" Margin="218,207,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button Content="Install Button Fix" HorizontalAlignment="Left" Margin="218,177,0,0" VerticalAlignment="Top" Width="198" FontSize="10" Height="25" Click="Button_Click_11"/>
+
+    </Grid>
+</Controls:MetroWindow>
