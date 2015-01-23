@@ -1,0 +1,16 @@
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\ThreshFlay.exe.config
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\ThreshFlay.exe
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\ThreshFlay.pdb
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\LeagueSharp.Common.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\LeagueSharp.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\SharpDX.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\SharpDX.Direct3D9.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\SharpDX.Toolkit.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\SharpDX.Toolkit.Graphics.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\clipper_library.dll
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\LeagueSharp.xml
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\SharpDX.Toolkit.xml
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\SharpDX.Toolkit.Graphics.xml
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\obj\Debug\ThreshFlay.csprojResolveAssemblyReference.cache
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\obj\Debug\ThreshFlay.exe
+D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\obj\Debug\ThreshFlay.pdb
