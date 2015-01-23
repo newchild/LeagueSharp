@@ -96,7 +96,7 @@ namespace ThreshFlay
             SpeechSynthesizer.GetInstalledVoices();
             SpeechSynthesizer.SelectVoice("Microsoft Zira Desktop");
             SpeechSynthesizer.SetOutputToDefaultAudioDevice();
-            SpeechSynthesizer.Speak("Thresh flayer, rek em son"); // :^), to be edited
+            SpeechSynthesizer.Speak("Thresh Flayer, Rek em Son"); // :^), to be edited
    
 
             #endregion Menus

@@ -17,3 +17,4 @@ D:\github\LeagueSharp\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasyShar
 D:\github\LeagueSharp\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.pdb
 D:\github\LeagueSharp\EasySharpToolRework\EasySharpToolRework\obj\Debug\App.baml
 D:\github\LeagueSharp\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework_MarkupCompile.lref
+D:\github\LeagueSharp\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.csprojResolveAssemblyReference.cache

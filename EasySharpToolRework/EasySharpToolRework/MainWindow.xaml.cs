@@ -84,7 +84,68 @@ namespace EasySharpToolRework
             System.Diagnostics.Process.Start("http://download.microsoft.com/download/1/6/7/167F0D79-9317-48AE-AEDB-17120579F8E2/NDP451-KB2858728-x86-x64-AllOS-ENU.exe");
         }
 
+        //LoLBuilder
+        private void Button_Click_12(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //LoLVOChanger
+        private void Button_Click_13(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //SkillShotInfo
+        private void Button_Click_14(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //LES
+        private void Button_Click_15(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //Settings Modifier
+        private void Button_Click_16(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //L# Download
+        private void Button_Click_17(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //L# teamspeak
         private void Button_Click_11(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //Open Appdata
+        private void Button_Click_18(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //clear Appdata
+        private void Button_Click_19(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //install button fix
+        private void Button_Click_20(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //L# database
+        private void Button_Click_21(object sender, RoutedEventArgs e)
         {
 
         }
