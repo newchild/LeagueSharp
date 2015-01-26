@@ -9,6 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using MahApps.Metro.Controls;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -40,7 +41,7 @@ namespace InstalledSpeechSynthVoicesGUI {
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
-        #line 16 "..\..\MainWindow.xaml"
+        #line 17 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Header;
         
@@ -48,7 +49,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 17 "..\..\MainWindow.xaml"
+        #line 18 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button GenerateButton;
         
@@ -56,7 +57,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 18 "..\..\MainWindow.xaml"
+        #line 19 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label1;
         
@@ -64,7 +65,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 19 "..\..\MainWindow.xaml"
+        #line 20 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label2;
         
@@ -72,7 +73,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 20 "..\..\MainWindow.xaml"
+        #line 21 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label3;
         
@@ -80,7 +81,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 21 "..\..\MainWindow.xaml"
+        #line 22 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label14;
         
@@ -88,7 +89,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 22 "..\..\MainWindow.xaml"
+        #line 23 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label13;
         
@@ -96,7 +97,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 23 "..\..\MainWindow.xaml"
+        #line 24 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label12;
         
@@ -104,7 +105,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 24 "..\..\MainWindow.xaml"
+        #line 25 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label11;
         
@@ -112,7 +113,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 25 "..\..\MainWindow.xaml"
+        #line 26 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label10;
         
@@ -120,7 +121,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 26 "..\..\MainWindow.xaml"
+        #line 27 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label9;
         
@@ -128,7 +129,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 27 "..\..\MainWindow.xaml"
+        #line 28 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label8;
         
@@ -136,7 +137,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 28 "..\..\MainWindow.xaml"
+        #line 29 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label7;
         
@@ -144,7 +145,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 29 "..\..\MainWindow.xaml"
+        #line 30 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label6;
         
@@ -152,7 +153,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 30 "..\..\MainWindow.xaml"
+        #line 31 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label5;
         
@@ -160,7 +161,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 31 "..\..\MainWindow.xaml"
+        #line 32 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label4;
         
@@ -168,7 +169,7 @@ namespace InstalledSpeechSynthVoicesGUI {
         #line hidden
         
         
-        #line 32 "..\..\MainWindow.xaml"
+        #line 33 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Label Label0;
         
@@ -211,7 +212,7 @@ namespace InstalledSpeechSynthVoicesGUI {
             case 2:
             this.GenerateButton = ((System.Windows.Controls.Button)(target));
             
-            #line 17 "..\..\MainWindow.xaml"
+            #line 18 "..\..\MainWindow.xaml"
             this.GenerateButton.Click += new System.Windows.RoutedEventHandler(this.GenerateButton_Click);
             
             #line default

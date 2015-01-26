@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\
+D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\
 EasySharpToolRework
 none
 false
-DEBUG;TRACE
+TRACE
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\App.xaml
 2-701707839
 
-9-2068630215
+5-2017746502
 14-128314405
 MainWindow.xaml;Resources\Icons.xaml;
 
