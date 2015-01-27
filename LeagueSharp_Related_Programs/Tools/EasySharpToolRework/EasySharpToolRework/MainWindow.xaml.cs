@@ -100,7 +100,7 @@ namespace EasySharpToolRework
         //SkillShotInfo
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
-
+            Process.Start("D:/github/LeagueSharp/LeagueSharp_Related_Programs/Tools/EasySharpToolRework/EasySharpToolRework/CustomResources/SkillShots.exe");
         }
 
         //LES

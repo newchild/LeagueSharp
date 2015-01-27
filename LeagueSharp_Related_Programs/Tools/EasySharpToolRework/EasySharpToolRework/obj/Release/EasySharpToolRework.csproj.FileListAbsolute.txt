@@ -6,7 +6,6 @@ D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Release\MahApps.Metro.dll
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Release\System.Windows.Interactivity.dll
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Release\MahApps.Metro.xml
-D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\Amber.baml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\Resources\Icons.baml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\App.baml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\MainWindow.g.cs
