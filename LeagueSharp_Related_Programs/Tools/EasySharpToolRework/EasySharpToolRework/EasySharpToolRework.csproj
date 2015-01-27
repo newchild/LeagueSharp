@@ -108,6 +108,11 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="CustomResources\exe\LES\debug.log" />
+    <None Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\7z.sfx" />
+    <None Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\7zCon.sfx" />
+    <None Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\descript.ion" />
+    <None Include="CustomResources\exe\LoLVOChanger\lib\Lang\en.ttt" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -133,6 +138,126 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CustomResources\exe\LES\AbcSharp.dll" />
+    <Content Include="CustomResources\exe\LES\LESs.exe" />
+    <Content Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\7-zip.dll" />
+    <Content Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\7z.dll" />
+    <Content Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\7z.exe" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\settings\props.xml" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\logs\Error_log.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\logs\Main_log.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\257.GIF" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\ahribanner.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\anniebanner.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\error.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\helpicon.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\lolicon.jpg" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\options.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\undo.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\warning.png" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\res\icons\wloading.GIF" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\af.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ar.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ast.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\az.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ba.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\be.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\bg.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\bn.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\br.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ca.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\cs.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\cy.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\da.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\de.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\el.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\eo.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\es.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\et.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\eu.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ext.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\fa.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\fi.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\fr.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\fur.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\fy.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\gl.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\gu.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\he.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\hi.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\hr.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\hu.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\hy.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\id.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\io.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\is.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\it.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ja.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ka.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\kk.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ko.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ku-ckb.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ku.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\lt.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\lv.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\mk.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\mn.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\mr.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ms.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\nb.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ne.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\nl.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\nn.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\pa-in.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\pl.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ps.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\pt-br.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\pt.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ro.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ru.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sa.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\si.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sk.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sl.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sq.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sr-spc.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sr-spl.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\sv.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ta.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\th.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\tr.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\tt.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\ug.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\uk.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\uz.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\va.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\vi.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\zh-cn.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\Lang\zh-tw.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\History.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\License.txt" />
+    <Resource Include="CustomResources\exe\LoLVOChanger\lib\7-Zip\readme.txt" />
+    <Content Include="CustomResources\exe\LoLVOChanger\lib\miglayout-4.0.jar" />
+    <Content Include="CustomResources\exe\LoLVOChanger\lib\weblaf-1.25.jar" />
+    <Content Include="CustomResources\exe\LoLVOChanger\LVOC.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CustomResources\exe\LES\Mods\appearOffline\" />
+    <Folder Include="CustomResources\exe\LES\Mods\autoAcceptQueue\" />
+    <Folder Include="CustomResources\exe\LES\Mods\clientMatchHistory\" />
+    <Folder Include="CustomResources\exe\LES\Mods\easyQueueDodge\" />
+    <Folder Include="CustomResources\exe\LES\Mods\joinMultipleQueues\" />
+    <Folder Include="CustomResources\exe\LES\Mods\keepMyPage\" />
+    <Folder Include="CustomResources\exe\LES\Mods\offlineMessage\" />
+    <Folder Include="CustomResources\exe\LES\Mods\pickWhileLocked\" />
+    <Folder Include="CustomResources\exe\LES\Mods\secretsKeptOurAramsWasted\" />
+    <Folder Include="CustomResources\exe\LES\Mods\seeTeamColor\" />
+    <Folder Include="CustomResources\exe\LES\Mods\selectRandomSkin\" />
+    <Folder Include="CustomResources\exe\LES\Mods\skinnyBots\" />
+    <Folder Include="CustomResources\exe\LES\Mods\stopCloseGame\" />
+    <Folder Include="CustomResources\exe\LES\Mods\storeRefresh\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
