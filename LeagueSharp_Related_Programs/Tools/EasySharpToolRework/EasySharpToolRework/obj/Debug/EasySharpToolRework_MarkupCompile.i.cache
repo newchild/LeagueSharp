@@ -8,10 +8,10 @@ D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 EasySharpToolRework
 none
 false
-DEBUG;TRACE
+CODE_ANALYSIS;DEBUG;TRACE
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\App.xaml
 5-1748485762
-834396147
+9-1957271926
 9-2068630215
 14-128314405
 Amber.xaml;CustomResources\xaml\BaseDark.xaml;CustomResources\xaml\BaseLight.xaml;MainWindow.xaml;Resources\Icons.xaml;

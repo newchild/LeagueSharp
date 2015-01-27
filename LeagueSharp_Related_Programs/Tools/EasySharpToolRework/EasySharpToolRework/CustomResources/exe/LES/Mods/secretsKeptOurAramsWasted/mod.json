@@ -1,0 +1,16 @@
+{
+	"Name": "Secrets Kept Our ARAMs Wasted",
+	"Description": "Reveals the enemy team's champions in the ARAM queue.",
+	"Author": "Antropod",
+	"Library": "AbcSharp",
+	"DisabledByDefault": false,
+	"Patches":
+	[
+		{
+			"Swf": "lib/ClientLibChampionSelectionCore.dat",
+			"Class": "com.riotgames.platform.gameclient.controllers.game.commands:UpdatePlayerRosterCommand",
+			"Action": "replace_trait",
+			"Code": "patch1.asasm"
+		}
+	]
+}

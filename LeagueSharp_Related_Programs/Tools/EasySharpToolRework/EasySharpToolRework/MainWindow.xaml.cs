@@ -100,10 +100,7 @@ namespace EasySharpToolRework
         //SkillShotInfo
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
-            Process p = new Process();
-            p.StartInfo.FileName = "Jeon_MissileDB.exe";
-            p.StartInfo.UseShellExecute = false;
-            p.Start();
+
         }
 
         //LES
