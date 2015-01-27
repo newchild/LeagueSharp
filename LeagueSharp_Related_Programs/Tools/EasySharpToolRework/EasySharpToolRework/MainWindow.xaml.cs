@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Diagnostics;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
@@ -17,7 +18,7 @@ using MahApps.Metro;
 namespace EasySharpToolRework
 {
     public partial class MainWindow : MahApps.Metro.Controls.MetroWindow
-    {
+    {   
         //HyunMi Profile Button
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -87,19 +88,22 @@ namespace EasySharpToolRework
         //LoLBuilder
         private void Button_Click_12(object sender, RoutedEventArgs e)
         {
-
+            System.Diagnostics.Process.Start("http://lolbuilder.net/premium/?hop=lolbuildaf#");
         }
 
         //LoLVOChanger
         private void Button_Click_13(object sender, RoutedEventArgs e)
         {
-
+            System.Diagnostics.Process.Start("http://www.joduska.me/forum/topic/10293-lvoc-lol-vo-changer-change-in-game-voices-and-sounds-works-with-l/");
         }
 
         //SkillShotInfo
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
-
+            Process p = new Process();
+            p.StartInfo.FileName = "Jeon_MissileDB.exe";
+            p.StartInfo.UseShellExecute = false;
+            p.Start();
         }
 
         //LES

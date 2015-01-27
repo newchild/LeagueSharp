@@ -8,7 +8,6 @@ D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\Resources\Icons.baml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\App.baml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\MainWindow.g.cs
-D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\Resources\Icons.g.cs
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\App.g.cs
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\EasySharpToolRework_MarkupCompile.cache
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\EasySharpToolRework_MarkupCompile.lref
@@ -18,3 +17,8 @@ D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\EasySharpToolRework.csproj.GenerateResource.Cache
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\EasySharpToolRework.exe
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\EasySharpToolRework.pdb
+D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\Amber.baml
+D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\BaseDark.baml
+D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\BaseLight.baml
+D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Release\EasySharpToolRework_Content.g.cs
+D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Release\Exe\Jeon_MissileDB.exe
