@@ -26,6 +26,9 @@ namespace ThreshFlay
         private static List<Spell> SpellList = new List<Spell>();
         private static Menu Config;
         private static System.Speech.Synthesis.SpeechSynthesizer SpeechSynthesizer;
+        public static int Q_Range = 400;
+        public static int W_Range = 950;
+        public static int E_Range = 1075/2;
 
         static void Main(string[] args)
         {
@@ -44,9 +47,9 @@ namespace ThreshFlay
             #region SpellsRegion
             // setting up spells
             //ranges
-            Q = new Spell(SpellSlot.Q, 1100);
-            W = new Spell(SpellSlot.W, 950);
-            E = new Spell(SpellSlot.E, 400);
+            Q = new Spell(SpellSlot.Q, Q_Range);
+            W = new Spell(SpellSlot.W, W_Range);
+            E = new Spell(SpellSlot.E, E_Range);
 
             //skillshot predictions
             Q.SetSkillshot(5f, 0.7f, 1900, true, SkillshotType.SkillshotLine);
@@ -83,8 +86,8 @@ namespace ThreshFlay
             Config.SubMenu("Drawings").AddItem(new MenuItem("DrawQ", "Draw Q")).SetValue(true);
             Config.SubMenu("Drawings").AddItem(new MenuItem("DrawW", "Draw W")).SetValue(true);
             Config.SubMenu("Drawings").AddItem(new MenuItem("DrawE", "Draw E")).SetValue(true);
-
-            // add it to mainMenu duuuh
+            
+            //add it to mainMenu duuuh
             Config.AddToMainMenu();
 
             //subcribe to various events
@@ -166,11 +169,11 @@ namespace ThreshFlay
                     {
                         if (Q.IsReady() == true)
                         {
-                            Render.Circle.DrawCircle(Player.Position, 1100, Color.Green);
+                            Render.Circle.DrawCircle(Player.Position, Q_Range, Color.Green);
                         }
                         else
                         {
-                            Render.Circle.DrawCircle(Player.Position, 1100, Color.DarkRed);
+                            Render.Circle.DrawCircle(Player.Position, Q_Range, Color.DarkRed);
                         }
                     }
                 }
@@ -180,11 +183,11 @@ namespace ThreshFlay
                     {
                         if (W.IsReady() == true)
                         {
-                            Render.Circle.DrawCircle(Player.Position, 950, Color.Green);
+                            Render.Circle.DrawCircle(Player.Position, W_Range, Color.Green);
                         }
                         else
                         {
-                            Render.Circle.DrawCircle(Player.Position, 950, Color.DarkRed);
+                            Render.Circle.DrawCircle(Player.Position, W_Range, Color.DarkRed);
                         }
                     }
                 }
@@ -195,11 +198,11 @@ namespace ThreshFlay
                     {
                         if (E.IsReady() == true)
                         {
-                            Render.Circle.DrawCircle(Player.Position, 400, Color.Green);
+                            Render.Circle.DrawCircle(Player.Position, E_Range, Color.Green);
                         }
                         else
                         {
-                            Render.Circle.DrawCircle(Player.Position, 400, Color.DarkRed);
+                            Render.Circle.DrawCircle(Player.Position, E_Range, Color.DarkRed);
                         }
                     }
                 }
