@@ -24,11 +24,13 @@ namespace EasySharpToolRework
         public String[, ,] SpellsInfo;
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
-            SpellsInfo = new String[124, 5, 22];
+            SpellsInfo = new String[124, 6, 23];
 
             /*
              * Example Reference
              */
+            SpellsInfo[0, 0, 0] = "ChampionName";
+            SpellsInfo[0, 1, 0] = "Champion";
             
             /*
              * Aatrox

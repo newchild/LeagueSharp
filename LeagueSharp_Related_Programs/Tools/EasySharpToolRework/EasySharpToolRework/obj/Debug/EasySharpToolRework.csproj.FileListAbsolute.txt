@@ -223,3 +223,6 @@ D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\SpellInfoWindow.baml
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\SpellInfoWindow.g.cs
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\SpellInfoWindow.xaml.cs
+G:\Github\Ketsi027_LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe.config
+G:\Github\Ketsi027_LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.exe
+G:\Github\Ketsi027_LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.pdb
