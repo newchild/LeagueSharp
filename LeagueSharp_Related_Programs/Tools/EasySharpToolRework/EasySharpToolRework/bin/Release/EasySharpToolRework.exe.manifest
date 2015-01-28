@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="12485632">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="418816">
       <assemblyIdentity name="EasySharpToolRework" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GV8SFlwTlTf2FSf+h+qFFrdlOTOLXbxvzB1WW6gTyRE=</dsig:DigestValue>
+        <dsig:DigestValue>5Hb82Gb3gHlO6i0tKGgx/d5tAJ0pkYIMdh5hp31Yvgs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

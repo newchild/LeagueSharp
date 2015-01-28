@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="12485632">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="12495872">
       <assemblyIdentity name="EasySharpToolRework" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GV8SFlwTlTf2FSf+h+qFFrdlOTOLXbxvzB1WW6gTyRE=</dsig:DigestValue>
+        <dsig:DigestValue>JcAzUW21foeSNJajV2yCCExJQhh3g3swPFDUnIGHjIE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -77,6 +77,1590 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="CustomResources\LES\AbcSharp.dll" size="112640">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p3vx5M9Ys2wVKNKy9H434Q5I9YVWVWoNgNSltaaVEao=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\debug.log" size="204">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wWZ6Z/yorJIXaEfz9anEl7/vO5LH5qTUj1RYmtKgbqs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\LESs.exe" size="30720">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AtDWwz32WP9Y7254iirRkhK6jIhawPHs3MZ274m2R9I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\mod.json" size="2318">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eKDs0Glqa9ud9ttLQySS43vQXjOO3n248hTPSLgmfDI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch1.asasm" size="1860">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9Gh1+dCcETOGugELlj0Z1UuYzmofxBV2hYkTIawGbq4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch10.asasm" size="2907">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8eBjC52D0pi8SpBHKVbJFX+rEkEN9tgewhPnBWu113I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch11.asasm" size="1439">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>76oEc7CIu8gX4vOK4WJPMUfYQien99JBXQ6g8NwCS0Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch2.asasm" size="13753">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xPj5C7HIpGWhfNsncmSNFCDzgImGa2SAtUZeKyIn5tM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch3.asasm" size="6375">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5TOYax6zNM3BEQ3poG49nIDVb+Lalp6fL5N6Tr+gHek=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch4.asasm" size="3254">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>U/y0a3y40eVnqXl4n97Q4Rfxf/1UwOv2nMl1as8zpVE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch5.asasm" size="12042">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UVtVpbVwwz2YLRRmeSsHWtQUK6vl8uJp5USVX4qZYtY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch6.asasm" size="210">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Hy3ocJpzzBY//ivR2HimKlFOAFMdlsulTjMqoxDWwHg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch7.asasm" size="239">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9AkZU7L39l71zCHarO6UrJFCC8awSXmiQovgzK8alSc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch8.asasm" size="5806">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>v3YcII88+VHkbhL+3LrNWKvl9WIIgw8+j+c4Ob/J9i0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\appearOffline\patch9.asasm" size="1045">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yAH9+oRRTHj4z3Juj0PnPz0lZdGXmMKpr0IYem98ElU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\autoAcceptQueue\mod.json" size="850">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SJIgW8JR2t1WB46EsypByD0s7MK9d01HmeD3MkxQl3Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\autoAcceptQueue\patch1.asasm" size="7715">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>y3dHawll2qSZF/jBdRbqVilMv/697zSOaL2MqXckW40=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\autoAcceptQueue\patch2.asasm" size="1671">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nhHMpIDDkm03RUlEhl2R48Con8nbIE9glGTR8wXfiBo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\autoAcceptQueue\patch3.asasm" size="3451">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Mq77wWa446W+AcY425gtjBzqNVfJxtmsJdroJnthxNs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\clientMatchHistory\mod.json" size="417">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mIDMNwiEx4SJ2i3Vvu/q+9DDHeNkbh0GxS9cTMRnBDQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\clientMatchHistory\patch1.asasm" size="2453">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gemjCM7zNqeRreETgrzGLX4tJ9OYp1UrwbATPnIsGrU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\easyQueueDodge\mod.json" size="485">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>v4cMIlmONHw4ACwzxgJeRyz667BsiWlPINcrTNA1wGM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\easyQueueDodge\patch1.asasm" size="968">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7WfZHDHM9/4iY8XGMyfDy6E2cj8Cc6IW32JPsPRTOh0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\mod.json" size="2629">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rhOr/i36m/77ffWHRZ9k+NHrhsNbWRKJfUeL+Q5x5CY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch1.asasm" size="15010">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>i991S6EElfkZYGnnkxZq+QUOUagqtdFIgaPII3Y8NH4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch10.asasm" size="9378">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>78EpRc2gz3A8AdaqK0p6NGRfqtr2Tp/+utU6WQ+BFqw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch11.asasm" size="991">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5T3f6KmVXjAWMmOX0fafTAr92TpVlSKpgXjJegyk+mA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch12.asasm" size="856">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OJBU36n/Fm3Pvz9TR/7uvGwncls9y1zvYKQ3UXpjgEk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch13.asasm" size="575">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4lk0c8JakghfEpWlJfgjUk/fmIvI+cvD3MWhqm28L0s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch2.asasm" size="10251">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1ZPyWjnzDOW9ZVWZv8r9P1/aEfr6ZNo4Q7bBOeatlqA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch3.asasm" size="44324">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>x2pg/HCRHhSqtguFDM6x5MfKwi/vhnMMBvU0jhEBMLw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch4.asasm" size="108">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vv/Qi7yA4DmP/2T0D4jIzTxj1BHnyjXa9zH08uQEDjk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch5.asasm" size="32076">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9ly+6dK50jLxfA7HekQQXyCUGrqpUjyNW88ihamsv4Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch6.asasm" size="9546">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ve49elCmnUdLi0dUy/nNjDK9Zp7F/dEU7fUPkVgbdQo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch7.asasm" size="2857">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rhSMt1z5d0Z+ltkdmiWtxuzxnRMGiT5RlQft0lznP38=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch8.asasm" size="2115">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tFbrTPTkuzdaqb9SMKR8S1ZhGUiUCaaLw9aDu97Ryi8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\joinMultipleQueues\patch9.asasm" size="1974">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oAAvfLr2mx6VWqxNTR3c8gdIUYrsWSY9FbMIBP8orAU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\keepMyPage\mod.json" size="414">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/7NwcOgBFi1fDR50b0VXX4gKLQ+lMmSL0PNeqXb4jnA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\keepMyPage\patch1.asasm" size="882">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KAMbHyxJpVovKMYSyGDbMH4/RMhagkRPb+6xlTdy92U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\offlineMessage\mod.json" size="741">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6g3FIPr1w8B0z4PgbUUMjSWWkLBTNWVNVb1Zl0AA/iA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\offlineMessage\patch1.asasm" size="961">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/Mbvo4Tov9dA/68wteUuWooRCKyzjRDRnF9MGDhqtH8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\offlineMessage\patch2.asasm" size="9800">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9WfLfC5Ep25XqDvzMtgFtptKdQAxcyNuRJ97q+IcK7E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\offlineMessage\patch3.asasm" size="950">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XHbWWgKf3aZIDWBSTPJTZJmjMlSghtolfH4rIe4ZFaQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\pickWhileLocked\mod.json" size="501">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ID2uO4oSZlzzjIJV1rG3rugoJpVbQQ2MhNP6MdPKiEQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\pickWhileLocked\patch1.asasm" size="3282">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zFMwHeHboQzqhLHmnYDoY51sjBuIsofbNLLMJcxaB8g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\secretsKeptOurAramsWasted\mod.json" size="444">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NkQ1TtO3FwT6WviNcsTRiU7urmSWa/bQWhpQagAqpuI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\secretsKeptOurAramsWasted\patch1 (2).asasm" size="23005">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7z4SI/T5oFeKqCAVsp58S1F8BfapsVDvmzVB2pmboo0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\secretsKeptOurAramsWasted\patch1.asasm" size="23005">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7z4SI/T5oFeKqCAVsp58S1F8BfapsVDvmzVB2pmboo0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\seeTeamColor\mod.json" size="394">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FZJfPDhbJ7lzNpwG+keIz2G8ukfEedTYrMfE93SozxE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\seeTeamColor\patch1.asasm" size="1505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lJGGutPrKNObFeZ1LhhAA9pbRCn6xXzGH9uARKekK6g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\selectRandomSkin\mod.json" size="1268">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BKHh1pKXY5ENCWCQbY72hIg4uRq2WINry+zURVQIRa4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\selectRandomSkin\patch1.asasm" size="5377">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hV1nNdBISJ/riPsoio7zPp6AxYJXcHGXjY78zlUg+Nw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\selectRandomSkin\patch2.asasm" size="6241">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Y/yHvuDk3RPQuVrhcHwxFyZOiweyqCmbV+qepxl9ywo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\selectRandomSkin\patch3.asasm" size="6162">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ARXt6ShhdKgwZ86LTv5iG9eok0H2HsZv5mem3RIVCuE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\selectRandomSkin\patch4.asasm" size="4386">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0iUnA3VjH4913pTsvAg4XVq8EUo74lHOaAmjm3BGz8k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\selectRandomSkin\patch5.asasm" size="6635">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ImGbHjgsJC8pAX4cg9DSpM7OqdslkMcvHx3k/4XjyiE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\mod.json" size="1592">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SgrvYKo9jL7u9dyyHOUqaE2ifrVOyhDdxbGwdPabvoQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch1.asasm" size="122">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>D0ztYD50LJpbJiVTUtuEMtrLkvjBGv0Uw6t4dkGpEa4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch2.asasm" size="2493">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7NL4BoY9Pf1mjWd4nqoXtcSPmfFu+pD4MeMgbRHr14w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch3.asasm" size="136129">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>H27ANbmctPrD8Nu/YNH9KHihRiRiZdU3JSKNbd1tuGI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch4.asasm" size="17836">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>M5CQQPYgcfwb8VAZfmwEj8U0wUIOugFOfqfV+4QkmVw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch5.asasm" size="2799">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5z+sgnOTBbHQ3bAfc7AsyaNLwPO5MXPMBYRnD8dWCiY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch6.asasm" size="159">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uUoj6s/Zou0A0B7WNY7+cUSe68HDAtgRLjtHOI0dCpM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\skinnyBots\patch7.asasm" size="3828">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Z+BmyYhHfQDSEOem+sD7PCt9ySF9dj3aCHU1eZavFA0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\stopCloseGame\mod.json" size="712">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kXc3ly/QWQVt3o6+jnfjL89K9kKwsf2GZ3rgeWrncMA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\stopCloseGame\patch1.asasm" size="472">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dMW5QdzsyKAxx0uYNiEVi5y9L6n+TqYFCm84BNe2CHI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\stopCloseGame\patch2.asasm" size="13676">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tzEtimP4hjfsYhXU8d008EVvjPvK7oJihx500Vhm8pU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\storeRefresh\mod.json" size="424">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HG7jMIjkysLM3RE0wlLA6/h+srvHzqPlfCDAojEBm3M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LES\Mods\storeRefresh\patch1.asasm" size="2117">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Tc1b6kxto9wjbfzY8Lvs7g6f6NUb3/OhnZIyhcPX4XE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\7z.dll" size="914432">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oeHR8P/0/Mz736MT873+pNPf4sLZF0phW7w5oKaSkzg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\7z.exe" size="163840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rJZ0/rjy+tIMHgRt5n+JlBknaueaYOjMAhpL9HKuBE8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\7z.sfx" size="162816">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>28ZcJh2l2u7yyPKlEydtCCb8GhiYN3e0frhEwvLvtZA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\7zCon.sfx" size="152064">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cbr/t92ie0r81z9JMrC5hH3f/QIwnsJkeLDTGDPFWaQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\7-zip.dll" size="55808">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4TxIPAb3UKFd4nkep0Snn+WmNndb81hkZI+GhfpBrEs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\descript.ion" size="333">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BrfZKcuIrCMXe/HYImASjlI83QzJ/ii/Dz+/HvWjU1g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\History.txt" size="32400">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tB6U/BAYsq5IHCb3luGpJ66MAHuK/5uuJ2WdLG7l/00=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\License.txt" size="1927">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LYVDw2rgbP3Ie5+T6+LfMFWr6WesDjz16bJebcT6Jac=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\7-Zip\readme.txt" size="1565">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lOmKPYOZOKDsiYfFrg6W0E1HvedIgK7B4676Gjwq8zg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\af.txt" size="10348">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bivQhVIR1kmOOZ9udWcMpeUsaQDp+4wNMpjvsPksPZ8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ar.txt" size="16900">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7fDlFxQ4Vw9MKzHhJmYFefKBppXaCYxUTJFP1o3rhZg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ast.txt" size="10640">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fyM5OixAfJKrxMn+uG65hceCdGImun+QTLYqJBBsv1U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\az.txt" size="13824">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KL3vaICDO1Qzr/iIe/ltdb9rzeoOP/18RANnCe81aRY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ba.txt" size="18160">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g7g4oCpiGC4rhHxdj0EXZ49AWWI4L4leDpc6pz7iFNo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\be.txt" size="18850">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7FGwC7hwUWmpxmsj14la/b3EA2HfbMunCgBjCI0bqJM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\bg.txt" size="20580">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fYzJVglwC7/4BXJiaa5O2odf6hTOKdO7rjlWLdOv2V0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\bn.txt" size="23005">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PSbzx6MjcnjLzT6hqHVkHXNTVlugqUK12T96qA8P0jo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\br.txt" size="10645">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6EuUW6ofCBzL6U185ycHvtQvIG9nVl+akR4jm4gRwSo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ca.txt" size="13798">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vSDPTjzIhmZoLHUyUUI4kjn9f1RNtRpm4/IjeLoZkrw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\cs.txt" size="14109">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Fk06M7Rg0uHkj4qJINj3eUEJm/L3NLEkJsbsN8sb/0I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\cy.txt" size="10645">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>md0X5AxExuTyAvWXYb5CZ1Fy47ho/aY8na5P3j4T6RQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\da.txt" size="12946">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cOL7DKk9B7v9M0Z6hMxrsBBaAjGIH/swkkej9pVJjA0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\de.txt" size="14513">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Z68gWRIRY9prs4+Q3rgRb2swZAfZ3t32hR6P2RtCbIQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\el.txt" size="21536">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oQ0bCqxs2GwhhsJCUXY3n903bWqanDriPx5nRdv+bA0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\en.ttt" size="12505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NyaT5pevIvN6MxvnRwoNAP6HIrh1jLrBK6SzUHiH3PI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\eo.txt" size="10637">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ijIMIM7DE4jDdWvhvXp9zB8oHmutvmYXjvlZi2gzenk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\es.txt" size="14521">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oiT+QIaxQH/6nD/gYEGand/ipx1Bf9ZEirzM3bziths=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\et.txt" size="13481">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Wofc0UyFZjOD3cKW/APXmMfogqc7ThkNf+NuhJcL26M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\eu.txt" size="12799">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HIUtrEy55oNYoty0WZKvCRFb3TrlPA1ii5Cy7kZ30Qs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ext.txt" size="14145">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BcFNPcRD0QopnpCqR5uLKk/sJyl8D1XVdUVCg5KrRdY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\fa.txt" size="16655">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>w7id8konEzJ2ODqLyXWjFEAoojV7ZGWS2Fc49al8Bzc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\fi.txt" size="14165">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LEV8STA/Uq+qj7xSstBTSNnsiQOY5AEzhJo/tasL98w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\fr.txt" size="14652">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yJsDiPWpNSdmd8zDGE1mowA5gfjTOMqRSslMHdW8tyA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\fur.txt" size="13894">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HtBzlR4eVl7Qvm0NbqJxDxuMGT2+P4kX/5wcal1HhFw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\fy.txt" size="12468">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eb3cJ/3Ghbei5+jSUPZPqCxyAinHPvi5TmF4j5Pu6XU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\gl.txt" size="10590">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>N9vS9nSQwffuxcTRBmNv2Vu3f00UWHmUGdTwbxnES1k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\gu.txt" size="26704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OK4DvjtW/RnFxm87xL69PxcMe9DVXHxrXWi9uY/HToo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\he.txt" size="16419">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>i4ylYeqKGi27eflU4bB9J4qOfL8FuV59LqeRfRuqW64=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\hi.txt" size="26795">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>H4CbjQSI9a5ZscTu1sgLGgxsEdV73Wp4NLrijY3x0Ck=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\hr.txt" size="13506">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Gxbs2tDmHb0XnjXs3mZyZq9Ev2r9iyG4GwaoPA1cCWY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\hu.txt" size="14584">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iVGLX5OE8EpZJKj4q0AY2jPS/DCNXoFhpvDLRmQMb/c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\hy.txt" size="18716">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ii0EIQDWMl6cU6R/t+AN1EY49wKlR+wvo/IzItMOgmM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\id.txt" size="13337">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h7znShWBhyTIqgm9Vw5+sr5Uw2wsDMZlmVsfPdCoajE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\io.txt" size="10115">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7Ijhh16N9FqYqhFn0nj36JrNHi/pMMVuSXXkaOvOaYE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\is.txt" size="12293">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LvfUToEH0c2VS8SScNkhav0PtXHpbZVERowKUc8Ud/I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\it.txt" size="14153">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ns8AgzDDynJIAqehj+WMg8a2zu09/RLI49RCEr5u2gA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ja.txt" size="15953">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kw4HYIejMrSPsU2MWLS2sz9u0KE+pYClTgTsX93Hyu4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ka.txt" size="19733">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dTkxS4T5yO9TQRSubbUTqXO3Wvhe4wOxqe8ApM1E8+M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\kk.txt" size="17704">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cK5aSzS4gSPjeravFg/cioUxJAJC/iGxxSi4hi7q3rg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ko.txt" size="14742">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>17QdbnOIuCkgQGz0g0OTaAaAFGZRRhV2U0LcUNbcGHk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ku.txt" size="11198">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Yebn7zGMn6K2IvaSz1lvGg6/+K1r4EWRgg+DKmyqtC8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ku-ckb.txt" size="19711">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LTVmIyTpD/CMGyjJuLef2m2bllKOrbQRgJDwi8hsAfQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\lt.txt" size="13239">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Mc3lGgwsUmgtQgJvjVk8wazHdfBWm0YTaPU7Ew0/gEo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\lv.txt" size="10690">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zcBH/n01/efnHGEK6CBMrznh/yy2enXTngLfDyGhmTU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\mk.txt" size="15080">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bpQpwhaqpQa4OQbk7GRv1C4q0NsLhA7TEFmiXjnrmSc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\mn.txt" size="14657">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5lHfwlj1Ro03gAccQwy3XB612Vbx4OXN55XiON4eufA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\mr.txt" size="17597">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6zfM+dzqia/zZ1bhhQoyD5DJLHX9cvHqMM6ibjyY0LE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ms.txt" size="10409">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+jVKGWDG1jbVQIotPbKH+QebzSfjOMBoJJ6Wu3YJkiQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\nb.txt" size="11767">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>q3HVVz7ck40AH3clA3uCYRvZRPFgFxmxwf3UTfbhUUA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ne.txt" size="21822">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dk1EbGxFuiNZCzaBLyezEMbikDdh4/WwyQJwtjCMWl0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\nl.txt" size="14213">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0x9reM8syTNJu9U6Ybuk8sNG+zEuVThOxiVrLogOr4I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\nn.txt" size="11500">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>11WV8Y+0Ed5I1wTo2EXiI8AY72hyS/kdGMMixQpFh1U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\pa-in.txt" size="22849">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>seTUP2tGTz5VSo8N9Hx2zUKo1Mxtk6xLP8IaZDJGJ9U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\pl.txt" size="14102">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bOOX4b4lTrrmxNs1wC3Yd3yn9cwzdWFR5Dyo7VWJ3ho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ps.txt" size="15131">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8++nx1pObHkbjbfOujIOEbQDNtXVND0MU8lrmbFsXck=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\pt.txt" size="14007">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sSlEqa5IBrCOpcZ4M9/C2Bj0/Px4xy2lY4/gMyGP74k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\pt-br.txt" size="13864">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3zinYRCflaSuAtouXjVIOh/5gWk8Cpr+KEI0EwTK8Zo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ro.txt" size="13994">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Bo6ZF1YrQ+c2oSqj4jk+wfHe20iiI4axYbACWZ5XnZ0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ru.txt" size="19107">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>I/jfYN8EthM2IThqj40oJvBKbC2c/i9JK+ZF1AbGSmU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sa.txt" size="28434">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>v7oRQ6SUuepQAt3kMdB5SeJyS64jF2k/PnJK/45IGxU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\si.txt" size="25126">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>icP71rlEKNPbOnofktwY2HfwcBTyEO83Jrn1XfK9++c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sk.txt" size="14323">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qdlYSwHb1+NKs02IJkcwXDnByDjA8cY8/JFtKiQ00Fc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sl.txt" size="12419">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4qsnxBtXdjQ/vhGHl6qnZi4uzE048RI8Tero6cK+0JM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sq.txt" size="11588">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7FJeptO9dSUKuH71L4t39ernHhRIfVyXlnJkXnP0tE0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sr-spc.txt" size="19089">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ONo1jkD3drmLyPwd8C/fVhGpUO1g72M0VwEJn6+5fvo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sr-spl.txt" size="13378">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NTyvtAtcZrcSBA3D5B2FUK12p5hF8BC0to5/7pf7TvY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\sv.txt" size="13743">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ISrWQpklItF1yPYSztfZLvt5kNIlEsMF5WFmxhfwpqM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ta.txt" size="20476">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XVGYo9bBQ5BMpGwsBl3dWwx2QVLhI6fGqN1nWwszMoI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\th.txt" size="24112">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TEdInLmkaT5qmzLJoLysPpV+HLw2o1mvacTfwlRtM7Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\tr.txt" size="13497">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bHbwhlT4Sl9I7tC6Pu9w82Ab/kIG9czhulJujeKP/wI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\tt.txt" size="18409">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>A3kPNL/uE7xrLPut6ZBepJ1826DbsHMDB/O9D79xgdQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\ug.txt" size="18785">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c1un1hmMb7ScbyzNC6qb2msQaY+X+ykZnG8EEq6BQYc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\uk.txt" size="19729">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ONZvF7LRUoibpANoWvuivKCSMlsBovA4KdOIQ20KjUI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\uz.txt" size="10679">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Wa0yHKpyrOhz+c9MFTn83T8/W041W31lJ8GWPAq3Dxg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\va.txt" size="12179">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0Pfib74eNuek3E2dBXmHd0xLljw49B5cb20ugMph2e8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\vi.txt" size="13716">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UagYYJHA8LkRhMvmy1CMbBz6fJOeZBXflkTdf9Jf3WI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\zh-cn.txt" size="13000">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tpKaEuBILmlJKf5aF/bV6g+LhWHTJ8x1kVyVnXrkiJQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\Lang\zh-tw.txt" size="13087">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wrbIupBM6pF47xOw3BmKcBF1VSqCBSd4vSsQiZP4fc0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\miglayout-4.0.jar" size="203283">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NXxwRHoKY9WHglbnfOt+iocvi0i8sZndnL+Ixs4KvKw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\lib\weblaf-1.25.jar" size="3725573">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PBwRlhF9W6FqndZB4PaU3HKuj1aH18IQVoz6ajPJ/D0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\LVOC.exe" size="123932">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Z5vkQjxd0LddmJvurABwfrl4vGbJqmgiXfOEznSxYfg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\257.GIF" size="7500">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>10Pg3QAqsVAD6/lvSMdEYdh+L9pIuvMEQI8+Ain6tGw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\ahribanner.png" size="133864">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5UmIhzEpezuRqeqXBFNNaqW8bdFvCtYEhC9QMfCo1rU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\anniebanner.png" size="129271">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GrOkuOeepXxrbuDHgYpIX/ighaDeuGxGdxNCl8H2z6k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\error.png" size="755">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TE1jw+royuuN+NiPQjQlAjyKc+IXv/0lDJ+KY6QCQss=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\helpicon.png" size="664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7prjOfLV1nQBv/gSgW5THNV5wBrMW0xRPMiy1eLoizc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\lolicon.jpg" size="169303">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pMYnfrcBkngrfGEIWIOJiXV7udd3OTDx4n7CIDU38XA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\options.png" size="571">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Rdkb2S+tZVhXwpq3Su2CuT0zezD7AkzeoBlR2SUfgGI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\undo.png" size="708">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lKhoBky6fQpZo2uiKOvQOtfErSBmgrPwNdJdVhCIOJE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\warning.png" size="3382">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OxQ2eOO2nlW1qJ2gKAF4wnup65TCjnSV4ehLqvhg62w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\icons\wloading.GIF" size="27716">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8QIKOEit/fUpjyOXNv0vZuVzDOZ2qSVKTZYBtsGnz+U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\logs\Error_log.txt" size="60">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lR3ENC1EAmJNhll/8fGE66prOqQ7PNl3a62sd1b/HGk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\logs\Main_log.txt" size="4113066">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Uz0VsjT3BOJtsa0vn6V5HV5IiONRO4p2CnNEOFOWmv4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\LoLVOChanger\res\settings\props.xml" size="187" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HK7uh3KmhoEOTbH3CVEnT6ChlhDALM1AonkOwo9SRK4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\SkillShots.exe" size="59392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pLBo/ooKGTK0ou81Dar6Jx5i67g+uBS7lKK7INvKNzA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\xaml\BaseDark.xaml" size="6028">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0uRCp1diuUhdSc4hhJXIyHNR2SNqbl41PUpKkk5hYo4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CustomResources\xaml\BaseLight.xaml" size="6028">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MaY+NMjuswX1yHuWNuxugT+5WTe6yOFr7jldyK/o6Pw=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="EasySharpToolRework.exe.config" size="187">
     <hash>
       <dsig:Transforms>

@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("customresources/exe/lolvochanger/lvoc.exe")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("customresources/xaml/baselight.xaml")]
 
 

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -100,43 +101,41 @@ namespace EasySharpToolRework
         //SkillShotInfo
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
-            Process.Start("D:/github/LeagueSharp/LeagueSharp_Related_Programs/Tools/EasySharpToolRework/EasySharpToolRework/CustomResources/SkillShots.exe");
+            System.Diagnostics.Process.Start("Jeon_MissileDB.exe");
         }
 
         //LES
         private void Button_Click_15(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        //Settings Modifier
-        private void Button_Click_16(object sender, RoutedEventArgs e)
-        {
-
+            Process LES = new Process();
+            LES.StartInfo.WorkingDirectory = "LES";
+            LES.StartInfo.FileName = "LESs.exe";
+            LES.Start();
         }
 
         //L# Download
         private void Button_Click_17(object sender, RoutedEventArgs e)
         {
-
+            System.Diagnostics.Process.Start("http://www.joduska.me/forum/forum/7-l-download/");
         }
 
         //L# teamspeak
         private void Button_Click_11(object sender, RoutedEventArgs e)
         {
-
+            System.Diagnostics.Process.Start("http://voice.joduska.me");
         }
 
         //Open Appdata
+        private static String path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "/LeagueSharp";
         private void Button_Click_18(object sender, RoutedEventArgs e)
         {
-
+            System.Diagnostics.Process.Start(path);
         }
 
         //clear Appdata
         private void Button_Click_19(object sender, RoutedEventArgs e)
         {
-
+            Directory.Delete(path, true);
         }
 
         //install button fix
