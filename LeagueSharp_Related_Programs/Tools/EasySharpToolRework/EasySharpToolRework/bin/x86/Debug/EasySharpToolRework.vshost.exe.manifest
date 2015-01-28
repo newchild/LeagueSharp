@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="456192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="460800">
       <assemblyIdentity name="EasySharpToolRework" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KsZY55eXsm/A28XYH+3bH4ZW3dRATNsAACj1sbCLT1I=</dsig:DigestValue>
+        <dsig:DigestValue>uQ+ohomGiwkWKfH6ueTPWNZ3KGMfyq20XBcmi3qg5jM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -77,15 +77,6 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CustomResources\SkillShots.exe" size="59392">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>pLBo/ooKGTK0ou81Dar6Jx5i67g+uBS7lKK7INvKNzA=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="EasySharpToolRework.exe.config" size="187">
     <hash>
       <dsig:Transforms>
@@ -93,6 +84,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Jeon_MissileDB.exe" size="59392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pLBo/ooKGTK0ou81Dar6Jx5i67g+uBS7lKK7INvKNzA=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

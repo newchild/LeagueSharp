@@ -2,17 +2,17 @@
 <?xml-stylesheet type="text/xsl" href="d:\visualstudio\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="12.0">
  <Targets>
-  <Target Name="D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe">
+  <Target Name="D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe">
    <Modules>
     <Module Name="easysharptoolrework.exe">
      <Messages>
-      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2015-01-28 00:34:43Z" FixCategory="NonBreaking">
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2015-01-28 19:41:29Z" FixCategory="NonBreaking">
        <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Sign 'EasySharpToolRework.exe' with a strong name key.</Issue>
       </Message>
-      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2015-01-28 00:34:43Z" FixCategory="NonBreaking">
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2015-01-28 19:41:29Z" FixCategory="NonBreaking">
        <Issue Certainty="95" Level="Error">Mark 'EasySharpToolRework.exe' with CLSCompliant(true) because it exposes externally visible types.</Issue>
       </Message>
-      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2015-01-28 00:34:43Z" FixCategory="NonBreaking">
+      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2015-01-28 19:41:29Z" FixCategory="NonBreaking">
        <Issue Certainty="95" Level="Warning">Because assembly 'EasySharpToolRework.exe' contains a ResX-based resource file, mark it with the NeutralResourcesLanguage attribute, specifying the language of the resources within the assembly. This could improve lookup performance the first time a resource is retrieved.</Issue>
       </Message>
      </Messages>
@@ -23,8 +23,8 @@
          <Members>
           <Member Name="#Button_Click_15(System.Object,System.Windows.RoutedEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-01-28 00:34:43Z" FixCategory="DependsOnFix">
-             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="d:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework" File="MainWindow.xaml.cs" Line="109">In method 'MainWindow.Button_Click_15(object, RoutedEventArgs)', call System.IDisposable.Dispose on object 'LES' before all references to it are out of scope.</Issue>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-01-28 19:41:29Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="d:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework" File="MainWindow.xaml.cs" Line="112">In method 'MainWindow.Button_Click_15(object, RoutedEventArgs)', call System.IDisposable.Dispose on object 'LES' before all references to it are out of scope.</Issue>
             </Message>
            </Messages>
           </Member>

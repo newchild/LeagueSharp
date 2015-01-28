@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("customresources/skillshots.exe")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("jeon_missiledb.exe")]
 
 

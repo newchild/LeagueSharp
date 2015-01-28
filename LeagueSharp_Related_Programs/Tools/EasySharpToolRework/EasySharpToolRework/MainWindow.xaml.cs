@@ -19,7 +19,8 @@ using MahApps.Metro;
 namespace EasySharpToolRework
 {
     public partial class MainWindow : MahApps.Metro.Controls.MetroWindow
-    {   
+    { 
+        private static SpellInfoWindow SpellInfoWindow = new SpellInfoWindow();
         //HyunMi Profile Button
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -101,7 +102,7 @@ namespace EasySharpToolRework
         //SkillShotInfo
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("Jeon_MissileDB.exe");
+            //System.Diagnostics.Process.Start("Jeon_MissileDB.exe");
         }
 
         //LES

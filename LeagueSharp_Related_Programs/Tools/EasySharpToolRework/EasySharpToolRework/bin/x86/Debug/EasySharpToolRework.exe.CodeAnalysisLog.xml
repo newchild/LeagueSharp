@@ -2,20 +2,44 @@
 <?xml-stylesheet type="text/xsl" href="d:\visualstudio\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
 <FxCopReport Version="12.0">
  <Targets>
-  <Target Name="D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\x86\Debug\EasySharpToolRework.exe">
+  <Target Name="D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\x86\Debug\EasySharpToolRework.exe">
    <Modules>
     <Module Name="easysharptoolrework.exe">
      <Messages>
-      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2015-01-27 23:02:56Z" FixCategory="NonBreaking">
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2015-01-28 18:47:02Z" FixCategory="NonBreaking">
        <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Sign 'EasySharpToolRework.exe' with a strong name key.</Issue>
       </Message>
-      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2015-01-27 23:02:56Z" FixCategory="NonBreaking">
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2015-01-28 18:47:02Z" FixCategory="NonBreaking">
        <Issue Certainty="95" Level="Error">Mark 'EasySharpToolRework.exe' with CLSCompliant(true) because it exposes externally visible types.</Issue>
       </Message>
-      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2015-01-27 23:02:56Z" FixCategory="NonBreaking">
+      <Message TypeName="MarkAssembliesWithNeutralResourcesLanguage" Category="Microsoft.Performance" CheckId="CA1824" Status="Active" Created="2015-01-28 18:47:02Z" FixCategory="NonBreaking">
        <Issue Certainty="95" Level="Warning">Because assembly 'EasySharpToolRework.exe' contains a ResX-based resource file, mark it with the NeutralResourcesLanguage attribute, specifying the language of the resources within the assembly. This could improve lookup performance the first time a resource is retrieved.</Issue>
       </Message>
      </Messages>
+     <Namespaces>
+      <Namespace Name="EasySharpToolRework">
+       <Types>
+        <Type Name="MainWindow" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Button_Click_15(System.Object,System.Windows.RoutedEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2015-01-28 18:47:02Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="d:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework" File="MainWindow.xaml.cs" Line="112">In method 'MainWindow.Button_Click_15(object, RoutedEventArgs)', call System.IDisposable.Dispose on object 'LES' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SpellInfoWindow" Kind="Field" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="NonConstantFieldsShouldNotBeVisible" Category="Microsoft.Usage" CheckId="CA2211" Status="Active" Created="2015-01-28 18:47:02Z" FixCategory="Breaking">
+             <Issue Certainty="90" Level="Warning">Consider making 'MainWindow.SpellInfoWindow' non-public or a constant.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
     </Module>
    </Modules>
   </Target>
@@ -30,6 +54,16 @@
    <Email>[none]</Email>
    <MessageLevel Certainty="95">CriticalError</MessageLevel>
    <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>Dispose objects before losing scope</Name>
+   <Description>If a disposable object is not explicitly disposed before all references to it are out of scope, the object will be disposed at some indeterminate time when the garbage collector runs the finalizer of the object. Because an exceptional event might occur that will prevent the finalizer of the object from running, the object should be explicitly disposed instead.</Description>
+   <Resolution Name="NonExceptionEdge">In method {0}, call System.IDisposable.Dispose on object {1} before all references to it are out of scope.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="12.0.0.0" />
   </Rule>
   <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
    <Name>Mark assemblies with CLSCompliantAttribute</Name>
@@ -50,6 +84,16 @@
    <Email>[none]</Email>
    <MessageLevel Certainty="95">Warning</MessageLevel>
    <File Name="performancerules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="NonConstantFieldsShouldNotBeVisible" Category="Microsoft.Usage" CheckId="CA2211">
+   <Name>Non-constant fields should not be visible</Name>
+   <Description>Static fields should be constant unless you carefully manage access to the field using locks. Using static variables without making them thread safe can compromise execution state. This rule applies to managed code libraries. If the analyzed assembly is an application, it is usually safe to exclude violations of this rule.</Description>
+   <Resolution Name="Default">Consider making {0} non-public or a constant.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182353.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="12.0.0.0" />
   </Rule>
  </Rules>
  <Localized>

@@ -220,3 +220,6 @@ D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\xaml\BaseDark.xaml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\xaml\BaseLight.xaml
 D:\github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.csprojResolveAssemblyReference.cache
+D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\SpellInfoWindow.baml
+D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\SpellInfoWindow.g.cs
+D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\SpellInfoWindow.xaml.cs
