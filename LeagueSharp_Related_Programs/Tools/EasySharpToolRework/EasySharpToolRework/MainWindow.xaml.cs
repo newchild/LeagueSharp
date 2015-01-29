@@ -102,6 +102,8 @@ namespace EasySharpToolRework
         //SkillShotInfo
         private void Button_Click_14(object sender, RoutedEventArgs e)
         {
+            SpellDataBase SpellDataBaseMain = new SpellDataBase();
+            SpellDataBaseMain.Init();
             //System.Diagnostics.Process.Start("Jeon_MissileDB.exe");
         }
 

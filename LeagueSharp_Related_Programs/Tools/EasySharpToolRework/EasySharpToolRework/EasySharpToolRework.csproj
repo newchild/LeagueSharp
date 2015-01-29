@@ -145,6 +145,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="SpellDataBase.cs" />
     <Compile Include="SpellInfoWindow.xaml.cs">
       <DependentUpon>SpellInfoWindow.xaml</DependentUpon>

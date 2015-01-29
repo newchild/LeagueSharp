@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="464896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="740864">
       <assemblyIdentity name="EasySharpToolRework" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d0Zp9cLEBE31mVO3wGEG3l2M+LeWXm8QPqgBXgiuFTg=</dsig:DigestValue>
+        <dsig:DigestValue>ZrRxo303Zh3dX87QV8ylAi1lEUn6vcG7pIH/M2tpp4g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>b4BTwwyt4R+Wq5lFbKXP5NrWIvAe26E8e68y2RvkcoE=</dsig:DigestValue>
+        <dsig:DigestValue>0KjGAN6u02/d01fuK03xThOkhnJ1Up2Pq+N9RwcU5IQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
