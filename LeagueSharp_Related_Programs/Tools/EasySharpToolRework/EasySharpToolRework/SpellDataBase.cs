@@ -323,416 +323,416 @@ namespace EasySharpToolRework
              * Aatrox
              */
 
-            SpellsInfo[0, 0, 0] = "ChampionName";
+            SpellsInfo[1, 0, 0] = "ChampionName";
 
-            SpellsInfo[0, 1, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 2, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 3, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 4, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 5, 0] = SpellsInfo[0, 0, 0];
+            SpellsInfo[1, 1, 0] = SpellsInfo[1, 0, 0];
+            SpellsInfo[1, 2, 0] = SpellsInfo[1, 0, 0];
+            SpellsInfo[1, 3, 0] = SpellsInfo[1, 0, 0];
+            SpellsInfo[1, 4, 0] = SpellsInfo[1, 0, 0];
+            SpellsInfo[1, 5, 0] = SpellsInfo[1, 0, 0];
 
-            SpellsInfo[0, 1, 1] = "Passive Skill Name";
-            SpellsInfo[0, 2, 1] = "Q Skill Name";
-            SpellsInfo[0, 3, 1] = "W Skill Name";
-            SpellsInfo[0, 4, 1] = "E Skill Name";
-            SpellsInfo[0, 5, 1] = "R Skill Name";
+            SpellsInfo[1, 1, 1] = "Passive Skill Name";
+            SpellsInfo[1, 2, 1] = "Q Skill Name";
+            SpellsInfo[1, 3, 1] = "W Skill Name";
+            SpellsInfo[1, 4, 1] = "E Skill Name";
+            SpellsInfo[1, 5, 1] = "R Skill Name";
 
-            SpellsInfo[0, 1, 2] = "Passive Type";
-            SpellsInfo[0, 2, 2] = "Q Type";
-            SpellsInfo[0, 3, 2] = "W Type";
-            SpellsInfo[0, 4, 2] = "E Type";
-            SpellsInfo[0, 5, 2] = "R Type";
+            SpellsInfo[1, 1, 2] = "Passive Type";
+            SpellsInfo[1, 2, 2] = "Q Type";
+            SpellsInfo[1, 3, 2] = "W Type";
+            SpellsInfo[1, 4, 2] = "E Type";
+            SpellsInfo[1, 5, 2] = "R Type";
 
-            SpellsInfo[0, 1, 3] = "Passive Delay";
-            SpellsInfo[0, 2, 3] = "Q Delay";
-            SpellsInfo[0, 3, 3] = "W Delay";
-            SpellsInfo[0, 4, 3] = "E Delay";
-            SpellsInfo[0, 5, 3] = "R Delay";
+            SpellsInfo[1, 1, 3] = "Passive Delay";
+            SpellsInfo[1, 2, 3] = "Q Delay";
+            SpellsInfo[1, 3, 3] = "W Delay";
+            SpellsInfo[1, 4, 3] = "E Delay";
+            SpellsInfo[1, 5, 3] = "R Delay";
 
-            SpellsInfo[0, 1, 4] = "Passive Range";
-            SpellsInfo[0, 2, 4] = "Q Range";
-            SpellsInfo[0, 3, 4] = "W Range";
-            SpellsInfo[0, 4, 4] = "E Range";
-            SpellsInfo[0, 5, 4] = "R Range";
+            SpellsInfo[1, 1, 4] = "Passive Range";
+            SpellsInfo[1, 2, 4] = "Q Range";
+            SpellsInfo[1, 3, 4] = "W Range";
+            SpellsInfo[1, 4, 4] = "E Range";
+            SpellsInfo[1, 5, 4] = "R Range";
 
-            SpellsInfo[0, 1, 5] = "Passive Radius";
-            SpellsInfo[0, 2, 5] = "Q Radius";
-            SpellsInfo[0, 3, 5] = "W Radius";
-            SpellsInfo[0, 4, 5] = "E Radius";
-            SpellsInfo[0, 5, 5] = "R Radius";
+            SpellsInfo[1, 1, 5] = "Passive Radius";
+            SpellsInfo[1, 2, 5] = "Q Radius";
+            SpellsInfo[1, 3, 5] = "W Radius";
+            SpellsInfo[1, 4, 5] = "E Radius";
+            SpellsInfo[1, 5, 5] = "R Radius";
 
-            SpellsInfo[0, 1, 6] = "Passive Missile Speed";
-            SpellsInfo[0, 2, 6] = "Q Missile Speed";
-            SpellsInfo[0, 3, 6] = "W Missile Speed";
-            SpellsInfo[0, 4, 6] = "E Missile Speed";
-            SpellsInfo[0, 5, 6] = "R Missile Speed";
+            SpellsInfo[1, 1, 6] = "Passive Missile Speed";
+            SpellsInfo[1, 2, 6] = "Q Missile Speed";
+            SpellsInfo[1, 3, 6] = "W Missile Speed";
+            SpellsInfo[1, 4, 6] = "E Missile Speed";
+            SpellsInfo[1, 5, 6] = "R Missile Speed";
 
-            SpellsInfo[0, 1, 7] = "Passive Fixed Range";
-            SpellsInfo[0, 2, 7] = "Q Fixed Range";
-            SpellsInfo[0, 3, 7] = "W Fixed Range";
-            SpellsInfo[0, 4, 7] = "E Fixed Range";
-            SpellsInfo[0, 5, 7] = "R Fixed Range";
+            SpellsInfo[1, 1, 7] = "Passive Fixed Range";
+            SpellsInfo[1, 2, 7] = "Q Fixed Range";
+            SpellsInfo[1, 3, 7] = "W Fixed Range";
+            SpellsInfo[1, 4, 7] = "E Fixed Range";
+            SpellsInfo[1, 5, 7] = "R Fixed Range";
 
-            SpellsInfo[0, 1, 8] = "Passive Danger Value";
-            SpellsInfo[0, 2, 8] = "Q Danger Value";
-            SpellsInfo[0, 3, 8] = "W Danger Value";
-            SpellsInfo[0, 4, 8] = "E Danger Value";
-            SpellsInfo[0, 5, 8] = "R Danger Value";
+            SpellsInfo[1, 1, 8] = "Passive Danger Value";
+            SpellsInfo[1, 2, 8] = "Q Danger Value";
+            SpellsInfo[1, 3, 8] = "W Danger Value";
+            SpellsInfo[1, 4, 8] = "E Danger Value";
+            SpellsInfo[1, 5, 8] = "R Danger Value";
 
-            SpellsInfo[0, 1, 9] = "Passive Multiple Number";
-            SpellsInfo[0, 2, 9] = "Q Multiple Number";
-            SpellsInfo[0, 3, 9] = "W Multiple Number";
-            SpellsInfo[0, 4, 9] = "E Multiple Number";
-            SpellsInfo[0, 5, 9] = "R Multiple Number";
+            SpellsInfo[1, 1, 9] = "Passive Multiple Number";
+            SpellsInfo[1, 2, 9] = "Q Multiple Number";
+            SpellsInfo[1, 3, 9] = "W Multiple Number";
+            SpellsInfo[1, 4, 9] = "E Multiple Number";
+            SpellsInfo[1, 5, 9] = "R Multiple Number";
 
-            SpellsInfo[0, 1, 10] = "Passive Multiple Angle";
-            SpellsInfo[0, 2, 10] = "Q Multiple Angle";
-            SpellsInfo[0, 3, 10] = "W Multiple Angle";
-            SpellsInfo[0, 4, 10] = "E Multiple Angle";
-            SpellsInfo[0, 5, 10] = "R Multiple Angle";
+            SpellsInfo[1, 1, 10] = "Passive Multiple Angle";
+            SpellsInfo[1, 2, 10] = "Q Multiple Angle";
+            SpellsInfo[1, 3, 10] = "W Multiple Angle";
+            SpellsInfo[1, 4, 10] = "E Multiple Angle";
+            SpellsInfo[1, 5, 10] = "R Multiple Angle";
 
-            SpellsInfo[0, 1, 11] = "Passive Can Be Removed";
-            SpellsInfo[0, 2, 11] = "Q Can Be Removed";
-            SpellsInfo[0, 3, 11] = "W Can Be Removed";
-            SpellsInfo[0, 4, 11] = "E Can Be Removed";
-            SpellsInfo[0, 5, 11] = "R Can Be Removed";
+            SpellsInfo[1, 1, 11] = "Passive Can Be Removed";
+            SpellsInfo[1, 2, 11] = "Q Can Be Removed";
+            SpellsInfo[1, 3, 11] = "W Can Be Removed";
+            SpellsInfo[1, 4, 11] = "E Can Be Removed";
+            SpellsInfo[1, 5, 11] = "R Can Be Removed";
 
-            SpellsInfo[0, 1, 12] = "Passive Collision Objects";
-            SpellsInfo[0, 2, 12] = "Q Collision Objects";
-            SpellsInfo[0, 3, 12] = "W Collision Objects";
-            SpellsInfo[0, 4, 12] = "E Collision Objects";
-            SpellsInfo[0, 5, 12] = "R Collision Objects";
+            SpellsInfo[1, 1, 12] = "Passive Collision Objects";
+            SpellsInfo[1, 2, 12] = "Q Collision Objects";
+            SpellsInfo[1, 3, 12] = "W Collision Objects";
+            SpellsInfo[1, 4, 12] = "E Collision Objects";
+            SpellsInfo[1, 5, 12] = "R Collision Objects";
 
-            SpellsInfo[0, 1, 13] = "Passive Cost";
-            SpellsInfo[0, 2, 13] = "Q Cost";
-            SpellsInfo[0, 3, 13] = "W Cost";
-            SpellsInfo[0, 4, 13] = "E Cost";
-            SpellsInfo[0, 5, 13] = "R Cost";
+            SpellsInfo[1, 1, 13] = "Passive Cost";
+            SpellsInfo[1, 2, 13] = "Q Cost";
+            SpellsInfo[1, 3, 13] = "W Cost";
+            SpellsInfo[1, 4, 13] = "E Cost";
+            SpellsInfo[1, 5, 13] = "R Cost";
 
-            SpellsInfo[0, 1, 14] = "Passive Cooldown";
-            SpellsInfo[0, 2, 14] = "Q Cooldown";
-            SpellsInfo[0, 3, 14] = "W Cooldown";
-            SpellsInfo[0, 4, 14] = "E Cooldown";
-            SpellsInfo[0, 5, 14] = "R Cooldown";
+            SpellsInfo[1, 1, 14] = "Passive Cooldown";
+            SpellsInfo[1, 2, 14] = "Q Cooldown";
+            SpellsInfo[1, 3, 14] = "W Cooldown";
+            SpellsInfo[1, 4, 14] = "E Cooldown";
+            SpellsInfo[1, 5, 14] = "R Cooldown";
 
-            SpellsInfo[0, 1, 15] = "Passive Duration";
-            SpellsInfo[0, 2, 15] = "Q Duration";
-            SpellsInfo[0, 3, 15] = "W Duration";
-            SpellsInfo[0, 4, 15] = "E Duration";
-            SpellsInfo[0, 5, 15] = "R Duration";
+            SpellsInfo[1, 1, 15] = "Passive Duration";
+            SpellsInfo[1, 2, 15] = "Q Duration";
+            SpellsInfo[1, 3, 15] = "W Duration";
+            SpellsInfo[1, 4, 15] = "E Duration";
+            SpellsInfo[1, 5, 15] = "R Duration";
 
-            SpellsInfo[0, 1, 16] = "Passive Physical Damage";
-            SpellsInfo[0, 2, 16] = "Q Physical Damage";
-            SpellsInfo[0, 3, 16] = "W Physical Damage";
-            SpellsInfo[0, 4, 16] = "E Physical Damage";
-            SpellsInfo[0, 5, 16] = "R Physical Damage";
+            SpellsInfo[1, 1, 16] = "Passive Physical Damage";
+            SpellsInfo[1, 2, 16] = "Q Physical Damage";
+            SpellsInfo[1, 3, 16] = "W Physical Damage";
+            SpellsInfo[1, 4, 16] = "E Physical Damage";
+            SpellsInfo[1, 5, 16] = "R Physical Damage";
 
-            SpellsInfo[0, 1, 17] = "Passive Magical Damage";
-            SpellsInfo[0, 2, 17] = "Q Magical Damage";
-            SpellsInfo[0, 3, 17] = "W Magical Damage";
-            SpellsInfo[0, 4, 17] = "E Magical Damage";
-            SpellsInfo[0, 5, 17] = "R Magical Damage";
+            SpellsInfo[1, 1, 17] = "Passive Magical Damage";
+            SpellsInfo[1, 2, 17] = "Q Magical Damage";
+            SpellsInfo[1, 3, 17] = "W Magical Damage";
+            SpellsInfo[1, 4, 17] = "E Magical Damage";
+            SpellsInfo[1, 5, 17] = "R Magical Damage";
 
-            SpellsInfo[0, 1, 18] = "Passive True Damage";
-            SpellsInfo[0, 2, 18] = "Q True Damage";
-            SpellsInfo[0, 3, 18] = "W True Damage";
-            SpellsInfo[0, 4, 18] = "E True Damage";
-            SpellsInfo[0, 5, 18] = "R True Damage";
+            SpellsInfo[1, 1, 18] = "Passive True Damage";
+            SpellsInfo[1, 2, 18] = "Q True Damage";
+            SpellsInfo[1, 3, 18] = "W True Damage";
+            SpellsInfo[1, 4, 18] = "E True Damage";
+            SpellsInfo[1, 5, 18] = "R True Damage";
 
-            SpellsInfo[0, 1, 19] = "Passive Health Restored";
-            SpellsInfo[0, 2, 19] = "Q Health Restored";
-            SpellsInfo[0, 3, 19] = "W Health Restored";
-            SpellsInfo[0, 4, 19] = "E Health Restored";
-            SpellsInfo[0, 5, 19] = "R Health Restored";
+            SpellsInfo[1, 1, 19] = "Passive Health Restored";
+            SpellsInfo[1, 2, 19] = "Q Health Restored";
+            SpellsInfo[1, 3, 19] = "W Health Restored";
+            SpellsInfo[1, 4, 19] = "E Health Restored";
+            SpellsInfo[1, 5, 19] = "R Health Restored";
 
-            SpellsInfo[0, 1, 20] = "Passive AD Scaling";
-            SpellsInfo[0, 2, 20] = "Q AD Scaling";
-            SpellsInfo[0, 3, 20] = "W AD Scaling";
-            SpellsInfo[0, 4, 20] = "E AD Scaling";
-            SpellsInfo[0, 5, 20] = "R AD Scaling";
+            SpellsInfo[1, 1, 20] = "Passive AD Scaling";
+            SpellsInfo[1, 2, 20] = "Q AD Scaling";
+            SpellsInfo[1, 3, 20] = "W AD Scaling";
+            SpellsInfo[1, 4, 20] = "E AD Scaling";
+            SpellsInfo[1, 5, 20] = "R AD Scaling";
 
-            SpellsInfo[0, 1, 21] = "Passive AP Scaling";
-            SpellsInfo[0, 2, 21] = "Q AP Scaling";
-            SpellsInfo[0, 3, 21] = "W AP Scaling";
-            SpellsInfo[0, 4, 21] = "E AP Scaling";
-            SpellsInfo[0, 5, 21] = "R AP Scaling";
+            SpellsInfo[1, 1, 21] = "Passive AP Scaling";
+            SpellsInfo[1, 2, 21] = "Q AP Scaling";
+            SpellsInfo[1, 3, 21] = "W AP Scaling";
+            SpellsInfo[1, 4, 21] = "E AP Scaling";
+            SpellsInfo[1, 5, 21] = "R AP Scaling";
 
-
-            /*
-             * 
-             */
-
-            SpellsInfo[0, 0, 0] = "ChampionName";
-
-            SpellsInfo[0, 1, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 2, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 3, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 4, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 5, 0] = SpellsInfo[0, 0, 0];
-
-            SpellsInfo[0, 1, 1] = "Passive Skill Name";
-            SpellsInfo[0, 2, 1] = "Q Skill Name";
-            SpellsInfo[0, 3, 1] = "W Skill Name";
-            SpellsInfo[0, 4, 1] = "E Skill Name";
-            SpellsInfo[0, 5, 1] = "R Skill Name";
-
-            SpellsInfo[0, 1, 2] = "Passive Type";
-            SpellsInfo[0, 2, 2] = "Q Type";
-            SpellsInfo[0, 3, 2] = "W Type";
-            SpellsInfo[0, 4, 2] = "E Type";
-            SpellsInfo[0, 5, 2] = "R Type";
-
-            SpellsInfo[0, 1, 3] = "Passive Delay";
-            SpellsInfo[0, 2, 3] = "Q Delay";
-            SpellsInfo[0, 3, 3] = "W Delay";
-            SpellsInfo[0, 4, 3] = "E Delay";
-            SpellsInfo[0, 5, 3] = "R Delay";
-
-            SpellsInfo[0, 1, 4] = "Passive Range";
-            SpellsInfo[0, 2, 4] = "Q Range";
-            SpellsInfo[0, 3, 4] = "W Range";
-            SpellsInfo[0, 4, 4] = "E Range";
-            SpellsInfo[0, 5, 4] = "R Range";
-
-            SpellsInfo[0, 1, 5] = "Passive Radius";
-            SpellsInfo[0, 2, 5] = "Q Radius";
-            SpellsInfo[0, 3, 5] = "W Radius";
-            SpellsInfo[0, 4, 5] = "E Radius";
-            SpellsInfo[0, 5, 5] = "R Radius";
-
-            SpellsInfo[0, 1, 6] = "Passive Missile Speed";
-            SpellsInfo[0, 2, 6] = "Q Missile Speed";
-            SpellsInfo[0, 3, 6] = "W Missile Speed";
-            SpellsInfo[0, 4, 6] = "E Missile Speed";
-            SpellsInfo[0, 5, 6] = "R Missile Speed";
-
-            SpellsInfo[0, 1, 7] = "Passive Fixed Range";
-            SpellsInfo[0, 2, 7] = "Q Fixed Range";
-            SpellsInfo[0, 3, 7] = "W Fixed Range";
-            SpellsInfo[0, 4, 7] = "E Fixed Range";
-            SpellsInfo[0, 5, 7] = "R Fixed Range";
-
-            SpellsInfo[0, 1, 8] = "Passive Danger Value";
-            SpellsInfo[0, 2, 8] = "Q Danger Value";
-            SpellsInfo[0, 3, 8] = "W Danger Value";
-            SpellsInfo[0, 4, 8] = "E Danger Value";
-            SpellsInfo[0, 5, 8] = "R Danger Value";
-
-            SpellsInfo[0, 1, 9] = "Passive Multiple Number";
-            SpellsInfo[0, 2, 9] = "Q Multiple Number";
-            SpellsInfo[0, 3, 9] = "W Multiple Number";
-            SpellsInfo[0, 4, 9] = "E Multiple Number";
-            SpellsInfo[0, 5, 9] = "R Multiple Number";
-
-            SpellsInfo[0, 1, 10] = "Passive Multiple Angle";
-            SpellsInfo[0, 2, 10] = "Q Multiple Angle";
-            SpellsInfo[0, 3, 10] = "W Multiple Angle";
-            SpellsInfo[0, 4, 10] = "E Multiple Angle";
-            SpellsInfo[0, 5, 10] = "R Multiple Angle";
-
-            SpellsInfo[0, 1, 11] = "Passive Can Be Removed";
-            SpellsInfo[0, 2, 11] = "Q Can Be Removed";
-            SpellsInfo[0, 3, 11] = "W Can Be Removed";
-            SpellsInfo[0, 4, 11] = "E Can Be Removed";
-            SpellsInfo[0, 5, 11] = "R Can Be Removed";
-
-            SpellsInfo[0, 1, 12] = "Passive Collision Objects";
-            SpellsInfo[0, 2, 12] = "Q Collision Objects";
-            SpellsInfo[0, 3, 12] = "W Collision Objects";
-            SpellsInfo[0, 4, 12] = "E Collision Objects";
-            SpellsInfo[0, 5, 12] = "R Collision Objects";
-
-            SpellsInfo[0, 1, 13] = "Passive Cost";
-            SpellsInfo[0, 2, 13] = "Q Cost";
-            SpellsInfo[0, 3, 13] = "W Cost";
-            SpellsInfo[0, 4, 13] = "E Cost";
-            SpellsInfo[0, 5, 13] = "R Cost";
-
-            SpellsInfo[0, 1, 14] = "Passive Cooldown";
-            SpellsInfo[0, 2, 14] = "Q Cooldown";
-            SpellsInfo[0, 3, 14] = "W Cooldown";
-            SpellsInfo[0, 4, 14] = "E Cooldown";
-            SpellsInfo[0, 5, 14] = "R Cooldown";
-
-            SpellsInfo[0, 1, 15] = "Passive Duration";
-            SpellsInfo[0, 2, 15] = "Q Duration";
-            SpellsInfo[0, 3, 15] = "W Duration";
-            SpellsInfo[0, 4, 15] = "E Duration";
-            SpellsInfo[0, 5, 15] = "R Duration";
-
-            SpellsInfo[0, 1, 16] = "Passive Physical Damage";
-            SpellsInfo[0, 2, 16] = "Q Physical Damage";
-            SpellsInfo[0, 3, 16] = "W Physical Damage";
-            SpellsInfo[0, 4, 16] = "E Physical Damage";
-            SpellsInfo[0, 5, 16] = "R Physical Damage";
-
-            SpellsInfo[0, 1, 17] = "Passive Magical Damage";
-            SpellsInfo[0, 2, 17] = "Q Magical Damage";
-            SpellsInfo[0, 3, 17] = "W Magical Damage";
-            SpellsInfo[0, 4, 17] = "E Magical Damage";
-            SpellsInfo[0, 5, 17] = "R Magical Damage";
-
-            SpellsInfo[0, 1, 18] = "Passive True Damage";
-            SpellsInfo[0, 2, 18] = "Q True Damage";
-            SpellsInfo[0, 3, 18] = "W True Damage";
-            SpellsInfo[0, 4, 18] = "E True Damage";
-            SpellsInfo[0, 5, 18] = "R True Damage";
-
-            SpellsInfo[0, 1, 19] = "Passive Health Restored";
-            SpellsInfo[0, 2, 19] = "Q Health Restored";
-            SpellsInfo[0, 3, 19] = "W Health Restored";
-            SpellsInfo[0, 4, 19] = "E Health Restored";
-            SpellsInfo[0, 5, 19] = "R Health Restored";
-
-            SpellsInfo[0, 1, 20] = "Passive AD Scaling";
-            SpellsInfo[0, 2, 20] = "Q AD Scaling";
-            SpellsInfo[0, 3, 20] = "W AD Scaling";
-            SpellsInfo[0, 4, 20] = "E AD Scaling";
-            SpellsInfo[0, 5, 20] = "R AD Scaling";
-
-            SpellsInfo[0, 1, 21] = "Passive AP Scaling";
-            SpellsInfo[0, 2, 21] = "Q AP Scaling";
-            SpellsInfo[0, 3, 21] = "W AP Scaling";
-            SpellsInfo[0, 4, 21] = "E AP Scaling";
-            SpellsInfo[0, 5, 21] = "R AP Scaling";
 
             /*
              * 
              */
 
-            SpellsInfo[0, 0, 0] = "ChampionName";
+            SpellsInfo[2, 0, 0] = "ChampionName";
 
-            SpellsInfo[0, 1, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 2, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 3, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 4, 0] = SpellsInfo[0, 0, 0];
-            SpellsInfo[0, 5, 0] = SpellsInfo[0, 0, 0];
+            SpellsInfo[2, 1, 0] = SpellsInfo[2, 0, 0];
+            SpellsInfo[2, 2, 0] = SpellsInfo[2, 0, 0];
+            SpellsInfo[2, 3, 0] = SpellsInfo[2, 0, 0];
+            SpellsInfo[2, 4, 0] = SpellsInfo[2, 0, 0];
+            SpellsInfo[2, 5, 0] = SpellsInfo[2, 0, 0];
 
-            SpellsInfo[0, 1, 1] = "Passive Skill Name";
-            SpellsInfo[0, 2, 1] = "Q Skill Name";
-            SpellsInfo[0, 3, 1] = "W Skill Name";
-            SpellsInfo[0, 4, 1] = "E Skill Name";
-            SpellsInfo[0, 5, 1] = "R Skill Name";
+            SpellsInfo[2, 1, 1] = "Passive Skill Name";
+            SpellsInfo[2, 2, 1] = "Q Skill Name";
+            SpellsInfo[2, 3, 1] = "W Skill Name";
+            SpellsInfo[2, 4, 1] = "E Skill Name";
+            SpellsInfo[2, 5, 1] = "R Skill Name";
 
-            SpellsInfo[0, 1, 2] = "Passive Type";
-            SpellsInfo[0, 2, 2] = "Q Type";
-            SpellsInfo[0, 3, 2] = "W Type";
-            SpellsInfo[0, 4, 2] = "E Type";
-            SpellsInfo[0, 5, 2] = "R Type";
+            SpellsInfo[2, 1, 2] = "Passive Type";
+            SpellsInfo[2, 2, 2] = "Q Type";
+            SpellsInfo[2, 3, 2] = "W Type";
+            SpellsInfo[2, 4, 2] = "E Type";
+            SpellsInfo[2, 5, 2] = "R Type";
 
-            SpellsInfo[0, 1, 3] = "Passive Delay";
-            SpellsInfo[0, 2, 3] = "Q Delay";
-            SpellsInfo[0, 3, 3] = "W Delay";
-            SpellsInfo[0, 4, 3] = "E Delay";
-            SpellsInfo[0, 5, 3] = "R Delay";
+            SpellsInfo[2, 1, 3] = "Passive Delay";
+            SpellsInfo[2, 2, 3] = "Q Delay";
+            SpellsInfo[2, 3, 3] = "W Delay";
+            SpellsInfo[2, 4, 3] = "E Delay";
+            SpellsInfo[2, 5, 3] = "R Delay";
 
-            SpellsInfo[0, 1, 4] = "Passive Range";
-            SpellsInfo[0, 2, 4] = "Q Range";
-            SpellsInfo[0, 3, 4] = "W Range";
-            SpellsInfo[0, 4, 4] = "E Range";
-            SpellsInfo[0, 5, 4] = "R Range";
+            SpellsInfo[2, 1, 4] = "Passive Range";
+            SpellsInfo[2, 2, 4] = "Q Range";
+            SpellsInfo[2, 3, 4] = "W Range";
+            SpellsInfo[2, 4, 4] = "E Range";
+            SpellsInfo[2, 5, 4] = "R Range";
 
-            SpellsInfo[0, 1, 5] = "Passive Radius";
-            SpellsInfo[0, 2, 5] = "Q Radius";
-            SpellsInfo[0, 3, 5] = "W Radius";
-            SpellsInfo[0, 4, 5] = "E Radius";
-            SpellsInfo[0, 5, 5] = "R Radius";
+            SpellsInfo[2, 1, 5] = "Passive Radius";
+            SpellsInfo[2, 2, 5] = "Q Radius";
+            SpellsInfo[2, 3, 5] = "W Radius";
+            SpellsInfo[2, 4, 5] = "E Radius";
+            SpellsInfo[2, 5, 5] = "R Radius";
 
-            SpellsInfo[0, 1, 6] = "Passive Missile Speed";
-            SpellsInfo[0, 2, 6] = "Q Missile Speed";
-            SpellsInfo[0, 3, 6] = "W Missile Speed";
-            SpellsInfo[0, 4, 6] = "E Missile Speed";
-            SpellsInfo[0, 5, 6] = "R Missile Speed";
+            SpellsInfo[2, 1, 6] = "Passive Missile Speed";
+            SpellsInfo[2, 2, 6] = "Q Missile Speed";
+            SpellsInfo[2, 3, 6] = "W Missile Speed";
+            SpellsInfo[2, 4, 6] = "E Missile Speed";
+            SpellsInfo[2, 5, 6] = "R Missile Speed";
 
-            SpellsInfo[0, 1, 7] = "Passive Fixed Range";
-            SpellsInfo[0, 2, 7] = "Q Fixed Range";
-            SpellsInfo[0, 3, 7] = "W Fixed Range";
-            SpellsInfo[0, 4, 7] = "E Fixed Range";
-            SpellsInfo[0, 5, 7] = "R Fixed Range";
+            SpellsInfo[2, 1, 7] = "Passive Fixed Range";
+            SpellsInfo[2, 2, 7] = "Q Fixed Range";
+            SpellsInfo[2, 3, 7] = "W Fixed Range";
+            SpellsInfo[2, 4, 7] = "E Fixed Range";
+            SpellsInfo[2, 5, 7] = "R Fixed Range";
 
-            SpellsInfo[0, 1, 8] = "Passive Danger Value";
-            SpellsInfo[0, 2, 8] = "Q Danger Value";
-            SpellsInfo[0, 3, 8] = "W Danger Value";
-            SpellsInfo[0, 4, 8] = "E Danger Value";
-            SpellsInfo[0, 5, 8] = "R Danger Value";
+            SpellsInfo[2, 1, 8] = "Passive Danger Value";
+            SpellsInfo[2, 2, 8] = "Q Danger Value";
+            SpellsInfo[2, 3, 8] = "W Danger Value";
+            SpellsInfo[2, 4, 8] = "E Danger Value";
+            SpellsInfo[2, 5, 8] = "R Danger Value";
 
-            SpellsInfo[0, 1, 9] = "Passive Multiple Number";
-            SpellsInfo[0, 2, 9] = "Q Multiple Number";
-            SpellsInfo[0, 3, 9] = "W Multiple Number";
-            SpellsInfo[0, 4, 9] = "E Multiple Number";
-            SpellsInfo[0, 5, 9] = "R Multiple Number";
+            SpellsInfo[2, 1, 9] = "Passive Multiple Number";
+            SpellsInfo[2, 2, 9] = "Q Multiple Number";
+            SpellsInfo[2, 3, 9] = "W Multiple Number";
+            SpellsInfo[2, 4, 9] = "E Multiple Number";
+            SpellsInfo[2, 5, 9] = "R Multiple Number";
 
-            SpellsInfo[0, 1, 10] = "Passive Multiple Angle";
-            SpellsInfo[0, 2, 10] = "Q Multiple Angle";
-            SpellsInfo[0, 3, 10] = "W Multiple Angle";
-            SpellsInfo[0, 4, 10] = "E Multiple Angle";
-            SpellsInfo[0, 5, 10] = "R Multiple Angle";
+            SpellsInfo[2, 1, 10] = "Passive Multiple Angle";
+            SpellsInfo[2, 2, 10] = "Q Multiple Angle";
+            SpellsInfo[2, 3, 10] = "W Multiple Angle";
+            SpellsInfo[2, 4, 10] = "E Multiple Angle";
+            SpellsInfo[2, 5, 10] = "R Multiple Angle";
 
-            SpellsInfo[0, 1, 11] = "Passive Can Be Removed";
-            SpellsInfo[0, 2, 11] = "Q Can Be Removed";
-            SpellsInfo[0, 3, 11] = "W Can Be Removed";
-            SpellsInfo[0, 4, 11] = "E Can Be Removed";
-            SpellsInfo[0, 5, 11] = "R Can Be Removed";
+            SpellsInfo[2, 1, 11] = "Passive Can Be Removed";
+            SpellsInfo[2, 2, 11] = "Q Can Be Removed";
+            SpellsInfo[2, 3, 11] = "W Can Be Removed";
+            SpellsInfo[2, 4, 11] = "E Can Be Removed";
+            SpellsInfo[2, 5, 11] = "R Can Be Removed";
 
-            SpellsInfo[0, 1, 12] = "Passive Collision Objects";
-            SpellsInfo[0, 2, 12] = "Q Collision Objects";
-            SpellsInfo[0, 3, 12] = "W Collision Objects";
-            SpellsInfo[0, 4, 12] = "E Collision Objects";
-            SpellsInfo[0, 5, 12] = "R Collision Objects";
+            SpellsInfo[2, 1, 12] = "Passive Collision Objects";
+            SpellsInfo[2, 2, 12] = "Q Collision Objects";
+            SpellsInfo[2, 3, 12] = "W Collision Objects";
+            SpellsInfo[2, 4, 12] = "E Collision Objects";
+            SpellsInfo[2, 5, 12] = "R Collision Objects";
 
-            SpellsInfo[0, 1, 13] = "Passive Cost";
-            SpellsInfo[0, 2, 13] = "Q Cost";
-            SpellsInfo[0, 3, 13] = "W Cost";
-            SpellsInfo[0, 4, 13] = "E Cost";
-            SpellsInfo[0, 5, 13] = "R Cost";
+            SpellsInfo[2, 1, 13] = "Passive Cost";
+            SpellsInfo[2, 2, 13] = "Q Cost";
+            SpellsInfo[2, 3, 13] = "W Cost";
+            SpellsInfo[2, 4, 13] = "E Cost";
+            SpellsInfo[2, 5, 13] = "R Cost";
 
-            SpellsInfo[0, 1, 14] = "Passive Cooldown";
-            SpellsInfo[0, 2, 14] = "Q Cooldown";
-            SpellsInfo[0, 3, 14] = "W Cooldown";
-            SpellsInfo[0, 4, 14] = "E Cooldown";
-            SpellsInfo[0, 5, 14] = "R Cooldown";
+            SpellsInfo[2, 1, 14] = "Passive Cooldown";
+            SpellsInfo[2, 2, 14] = "Q Cooldown";
+            SpellsInfo[2, 3, 14] = "W Cooldown";
+            SpellsInfo[2, 4, 14] = "E Cooldown";
+            SpellsInfo[2, 5, 14] = "R Cooldown";
 
-            SpellsInfo[0, 1, 15] = "Passive Duration";
-            SpellsInfo[0, 2, 15] = "Q Duration";
-            SpellsInfo[0, 3, 15] = "W Duration";
-            SpellsInfo[0, 4, 15] = "E Duration";
-            SpellsInfo[0, 5, 15] = "R Duration";
+            SpellsInfo[2, 1, 15] = "Passive Duration";
+            SpellsInfo[2, 2, 15] = "Q Duration";
+            SpellsInfo[2, 3, 15] = "W Duration";
+            SpellsInfo[2, 4, 15] = "E Duration";
+            SpellsInfo[2, 5, 15] = "R Duration";
 
-            SpellsInfo[0, 1, 16] = "Passive Physical Damage";
-            SpellsInfo[0, 2, 16] = "Q Physical Damage";
-            SpellsInfo[0, 3, 16] = "W Physical Damage";
-            SpellsInfo[0, 4, 16] = "E Physical Damage";
-            SpellsInfo[0, 5, 16] = "R Physical Damage";
+            SpellsInfo[2, 1, 16] = "Passive Physical Damage";
+            SpellsInfo[2, 2, 16] = "Q Physical Damage";
+            SpellsInfo[2, 3, 16] = "W Physical Damage";
+            SpellsInfo[2, 4, 16] = "E Physical Damage";
+            SpellsInfo[2, 5, 16] = "R Physical Damage";
 
-            SpellsInfo[0, 1, 17] = "Passive Magical Damage";
-            SpellsInfo[0, 2, 17] = "Q Magical Damage";
-            SpellsInfo[0, 3, 17] = "W Magical Damage";
-            SpellsInfo[0, 4, 17] = "E Magical Damage";
-            SpellsInfo[0, 5, 17] = "R Magical Damage";
+            SpellsInfo[2, 1, 17] = "Passive Magical Damage";
+            SpellsInfo[2, 2, 17] = "Q Magical Damage";
+            SpellsInfo[2, 3, 17] = "W Magical Damage";
+            SpellsInfo[2, 4, 17] = "E Magical Damage";
+            SpellsInfo[2, 5, 17] = "R Magical Damage";
 
-            SpellsInfo[0, 1, 18] = "Passive True Damage";
-            SpellsInfo[0, 2, 18] = "Q True Damage";
-            SpellsInfo[0, 3, 18] = "W True Damage";
-            SpellsInfo[0, 4, 18] = "E True Damage";
-            SpellsInfo[0, 5, 18] = "R True Damage";
+            SpellsInfo[2, 1, 18] = "Passive True Damage";
+            SpellsInfo[2, 2, 18] = "Q True Damage";
+            SpellsInfo[2, 3, 18] = "W True Damage";
+            SpellsInfo[2, 4, 18] = "E True Damage";
+            SpellsInfo[2, 5, 18] = "R True Damage";
 
-            SpellsInfo[0, 1, 19] = "Passive Health Restored";
-            SpellsInfo[0, 2, 19] = "Q Health Restored";
-            SpellsInfo[0, 3, 19] = "W Health Restored";
-            SpellsInfo[0, 4, 19] = "E Health Restored";
-            SpellsInfo[0, 5, 19] = "R Health Restored";
+            SpellsInfo[2, 1, 19] = "Passive Health Restored";
+            SpellsInfo[2, 2, 19] = "Q Health Restored";
+            SpellsInfo[2, 3, 19] = "W Health Restored";
+            SpellsInfo[2, 4, 19] = "E Health Restored";
+            SpellsInfo[2, 5, 19] = "R Health Restored";
 
-            SpellsInfo[0, 1, 20] = "Passive AD Scaling";
-            SpellsInfo[0, 2, 20] = "Q AD Scaling";
-            SpellsInfo[0, 3, 20] = "W AD Scaling";
-            SpellsInfo[0, 4, 20] = "E AD Scaling";
-            SpellsInfo[0, 5, 20] = "R AD Scaling";
+            SpellsInfo[2, 1, 20] = "Passive AD Scaling";
+            SpellsInfo[2, 2, 20] = "Q AD Scaling";
+            SpellsInfo[2, 3, 20] = "W AD Scaling";
+            SpellsInfo[2, 4, 20] = "E AD Scaling";
+            SpellsInfo[2, 5, 20] = "R AD Scaling";
 
-            SpellsInfo[0, 1, 21] = "Passive AP Scaling";
-            SpellsInfo[0, 2, 21] = "Q AP Scaling";
-            SpellsInfo[0, 3, 21] = "W AP Scaling";
-            SpellsInfo[0, 4, 21] = "E AP Scaling";
-            SpellsInfo[0, 5, 21] = "R AP Scaling";
+            SpellsInfo[2, 1, 21] = "Passive AP Scaling";
+            SpellsInfo[2, 2, 21] = "Q AP Scaling";
+            SpellsInfo[2, 3, 21] = "W AP Scaling";
+            SpellsInfo[2, 4, 21] = "E AP Scaling";
+            SpellsInfo[2, 5, 21] = "R AP Scaling";
+
+            /*
+             * 
+             */
+
+            SpellsInfo[3, 0, 0] = "ChampionName";
+
+            SpellsInfo[3, 1, 0] = SpellsInfo[3, 0, 0];
+            SpellsInfo[3, 2, 0] = SpellsInfo[3, 0, 0];
+            SpellsInfo[3, 3, 0] = SpellsInfo[3, 0, 0];
+            SpellsInfo[3, 4, 0] = SpellsInfo[3, 0, 0];
+            SpellsInfo[3, 5, 0] = SpellsInfo[3, 0, 0];
+
+            SpellsInfo[3, 1, 1] = "Passive Skill Name";
+            SpellsInfo[3, 2, 1] = "Q Skill Name";
+            SpellsInfo[3, 3, 1] = "W Skill Name";
+            SpellsInfo[3, 4, 1] = "E Skill Name";
+            SpellsInfo[3, 5, 1] = "R Skill Name";
+
+            SpellsInfo[3, 1, 2] = "Passive Type";
+            SpellsInfo[3, 2, 2] = "Q Type";
+            SpellsInfo[3, 3, 2] = "W Type";
+            SpellsInfo[3, 4, 2] = "E Type";
+            SpellsInfo[3, 5, 2] = "R Type";
+
+            SpellsInfo[3, 1, 3] = "Passive Delay";
+            SpellsInfo[3, 2, 3] = "Q Delay";
+            SpellsInfo[3, 3, 3] = "W Delay";
+            SpellsInfo[3, 4, 3] = "E Delay";
+            SpellsInfo[3, 5, 3] = "R Delay";
+
+            SpellsInfo[3, 1, 4] = "Passive Range";
+            SpellsInfo[3, 2, 4] = "Q Range";
+            SpellsInfo[3, 3, 4] = "W Range";
+            SpellsInfo[3, 4, 4] = "E Range";
+            SpellsInfo[3, 5, 4] = "R Range";
+
+            SpellsInfo[3, 1, 5] = "Passive Radius";
+            SpellsInfo[3, 2, 5] = "Q Radius";
+            SpellsInfo[3, 3, 5] = "W Radius";
+            SpellsInfo[3, 4, 5] = "E Radius";
+            SpellsInfo[3, 5, 5] = "R Radius";
+
+            SpellsInfo[3, 1, 6] = "Passive Missile Speed";
+            SpellsInfo[3, 2, 6] = "Q Missile Speed";
+            SpellsInfo[3, 3, 6] = "W Missile Speed";
+            SpellsInfo[3, 4, 6] = "E Missile Speed";
+            SpellsInfo[3, 5, 6] = "R Missile Speed";
+
+            SpellsInfo[3, 1, 7] = "Passive Fixed Range";
+            SpellsInfo[3, 2, 7] = "Q Fixed Range";
+            SpellsInfo[3, 3, 7] = "W Fixed Range";
+            SpellsInfo[3, 4, 7] = "E Fixed Range";
+            SpellsInfo[3, 5, 7] = "R Fixed Range";
+
+            SpellsInfo[3, 1, 8] = "Passive Danger Value";
+            SpellsInfo[3, 2, 8] = "Q Danger Value";
+            SpellsInfo[3, 3, 8] = "W Danger Value";
+            SpellsInfo[3, 4, 8] = "E Danger Value";
+            SpellsInfo[3, 5, 8] = "R Danger Value";
+
+            SpellsInfo[3, 1, 9] = "Passive Multiple Number";
+            SpellsInfo[3, 2, 9] = "Q Multiple Number";
+            SpellsInfo[3, 3, 9] = "W Multiple Number";
+            SpellsInfo[3, 4, 9] = "E Multiple Number";
+            SpellsInfo[3, 5, 9] = "R Multiple Number";
+
+            SpellsInfo[3, 1, 10] = "Passive Multiple Angle";
+            SpellsInfo[3, 2, 10] = "Q Multiple Angle";
+            SpellsInfo[3, 3, 10] = "W Multiple Angle";
+            SpellsInfo[3, 4, 10] = "E Multiple Angle";
+            SpellsInfo[3, 5, 10] = "R Multiple Angle";
+
+            SpellsInfo[3, 1, 11] = "Passive Can Be Removed";
+            SpellsInfo[3, 2, 11] = "Q Can Be Removed";
+            SpellsInfo[3, 3, 11] = "W Can Be Removed";
+            SpellsInfo[3, 4, 11] = "E Can Be Removed";
+            SpellsInfo[3, 5, 11] = "R Can Be Removed";
+
+            SpellsInfo[3, 1, 12] = "Passive Collision Objects";
+            SpellsInfo[3, 2, 12] = "Q Collision Objects";
+            SpellsInfo[3, 3, 12] = "W Collision Objects";
+            SpellsInfo[3, 4, 12] = "E Collision Objects";
+            SpellsInfo[3, 5, 12] = "R Collision Objects";
+
+            SpellsInfo[3, 1, 13] = "Passive Cost";
+            SpellsInfo[3, 2, 13] = "Q Cost";
+            SpellsInfo[3, 3, 13] = "W Cost";
+            SpellsInfo[3, 4, 13] = "E Cost";
+            SpellsInfo[3, 5, 13] = "R Cost";
+
+            SpellsInfo[3, 1, 14] = "Passive Cooldown";
+            SpellsInfo[3, 2, 14] = "Q Cooldown";
+            SpellsInfo[3, 3, 14] = "W Cooldown";
+            SpellsInfo[3, 4, 14] = "E Cooldown";
+            SpellsInfo[3, 5, 14] = "R Cooldown";
+
+            SpellsInfo[3, 1, 15] = "Passive Duration";
+            SpellsInfo[3, 2, 15] = "Q Duration";
+            SpellsInfo[3, 3, 15] = "W Duration";
+            SpellsInfo[3, 4, 15] = "E Duration";
+            SpellsInfo[3, 5, 15] = "R Duration";
+
+            SpellsInfo[3, 1, 16] = "Passive Physical Damage";
+            SpellsInfo[3, 2, 16] = "Q Physical Damage";
+            SpellsInfo[3, 3, 16] = "W Physical Damage";
+            SpellsInfo[3, 4, 16] = "E Physical Damage";
+            SpellsInfo[3, 5, 16] = "R Physical Damage";
+
+            SpellsInfo[3, 1, 17] = "Passive Magical Damage";
+            SpellsInfo[3, 2, 17] = "Q Magical Damage";
+            SpellsInfo[3, 3, 17] = "W Magical Damage";
+            SpellsInfo[3, 4, 17] = "E Magical Damage";
+            SpellsInfo[3, 5, 17] = "R Magical Damage";
+
+            SpellsInfo[3, 1, 18] = "Passive True Damage";
+            SpellsInfo[3, 2, 18] = "Q True Damage";
+            SpellsInfo[3, 3, 18] = "W True Damage";
+            SpellsInfo[3, 4, 18] = "E True Damage";
+            SpellsInfo[3, 5, 18] = "R True Damage";
+
+            SpellsInfo[3, 1, 19] = "Passive Health Restored";
+            SpellsInfo[3, 2, 19] = "Q Health Restored";
+            SpellsInfo[3, 3, 19] = "W Health Restored";
+            SpellsInfo[3, 4, 19] = "E Health Restored";
+            SpellsInfo[3, 5, 19] = "R Health Restored";
+
+            SpellsInfo[3, 1, 20] = "Passive AD Scaling";
+            SpellsInfo[3, 2, 20] = "Q AD Scaling";
+            SpellsInfo[3, 3, 20] = "W AD Scaling";
+            SpellsInfo[3, 4, 20] = "E AD Scaling";
+            SpellsInfo[3, 5, 20] = "R AD Scaling";
+
+            SpellsInfo[3, 1, 21] = "Passive AP Scaling";
+            SpellsInfo[3, 2, 21] = "Q AP Scaling";
+            SpellsInfo[3, 3, 21] = "W AP Scaling";
+            SpellsInfo[3, 4, 21] = "E AP Scaling";
+            SpellsInfo[3, 5, 21] = "R AP Scaling";
 
             /*
              * 
