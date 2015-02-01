@@ -26,19 +26,14 @@ namespace EasySharpToolRework
 
         //Various variables
         private String[] Type;
-        private String Null;
+        private const String Null;
 
 
         public void Init()
         {
             SpellsInfo = new String[123, 5, 22]; //That's 16368 Slots of data, Mein Neger, Deal with it
 
-            Type = new String[3];
-            Type[0] = "null";
-            Type[1] = "SkillShotLine";
-            Type[2] = "SkillShotCone";
-            Type[3] = "SkillShotCircle";
-
+            Type = {"null","SkillShotLine","SkillShotCone","SkillShotCircle"};
             Null = "null";
 
             /*

@@ -1,0 +1,52 @@
+{
+	"Name": "Skinny Bots",
+	"Description": "Lets you choose a skin for bots in custom games.",
+	"Author": "Antropod",
+	"Library": "AbcSharp",
+	"DisabledByDefault": false,
+	"Patches":
+	[
+		{
+			"Swf": "lib/ClientLibDomain.dat",
+			"Class": "com.riotgames.platform.gameclient.domain:BotParticipant",
+			"Action": "add_instance_trait",
+			"Code": "patch1.asasm"
+		},
+		{
+			"Swf": "mod/ser/mod_ser.dat",
+			"Class": "com.riotgames.platform.gameclient.module.services.lcds:GameServiceImpl",
+			"Action": "replace_trait",
+			"Code": "patch2.asasm"
+		},
+		{
+			"Swf": "mod/man/mod_man.dat",
+			"Class": "com.riotgames.platform.gameclient.views.game.practice.teamselection:TeamMemberRenderer2",
+			"Action": "replace_iinit",
+			"Code": "patch3.asasm"
+		},
+		{
+			"Swf": "mod/man/mod_man.dat",
+			"Class": "com.riotgames.platform.gameclient.views.game.practice.teamselection:TeamMemberRenderer2",
+			"Action": "replace_trait",
+			"Code": "patch4.asasm"
+		},
+		{
+			"Swf": "mod/man/mod_man.dat",
+			"Class": "com.riotgames.platform.gameclient.views.game.practice.teamselection:TeamMemberRenderer2",
+			"Action": "replace_trait",
+			"Code": "patch5.asasm"
+		},
+		{
+			"Swf": "mod/man/mod_man.dat",
+			"Class": "com.riotgames.platform.gameclient.views.game.practice.teamselection:TeamMemberRenderer2",
+			"Action": "add_instance_trait",
+			"Code": "patch6.asasm"
+		},
+		{
+			"Swf": "lib/ClientLibGame.dat",
+			"Class": "com.riotgames.pvpnet.game.controllers:TeamSelectionController",
+			"Action": "add_instance_trait",
+			"Code": "patch7.asasm"
+		}
+	]
+}
