@@ -59,14 +59,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="740864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasySharpToolRework.exe" size="557568">
       <assemblyIdentity name="EasySharpToolRework" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MbPYesnGigARJtEkFlbq6h90M7R7r3rXxreQ66xe7H0=</dsig:DigestValue>
+        <dsig:DigestValue>BMV1+FeUueZqzXptBuEnYeD7jP/w/CLeBTWIzJsZjLc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -83,14 +83,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LeagueSharp.Common.dll" size="781824">
-      <assemblyIdentity name="LeagueSharp.Common" version="1.0.0.27" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LeagueSharp.Common.dll" size="782848">
+      <assemblyIdentity name="LeagueSharp.Common" version="1.0.0.28" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>k9hf2scmR2ot6FU2541RaDshkhcJznnb8BaY3SFWXxQ=</dsig:DigestValue>
+        <dsig:DigestValue>avBjls+OzaoCYE1jzOyNqnZ/fQBouE2A8W8m7CD4JGk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

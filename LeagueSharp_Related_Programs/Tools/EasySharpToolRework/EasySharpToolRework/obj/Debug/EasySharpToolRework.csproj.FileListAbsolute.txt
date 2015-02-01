@@ -21,7 +21,6 @@ D:\github\LeagueSharp\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasyShar
 G:\Github\Ketsi027_LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe.config
 G:\Github\Ketsi027_LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.exe
 G:\Github\Ketsi027_LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.pdb
-D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe.config
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\Jeon_MissileDB.exe
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\SpellInfoWindow.xaml.cs
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\xaml\BaseDark.xaml
@@ -199,6 +198,7 @@ D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\LoLVOChanger\lib\miglayout-4.0.jar
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\LoLVOChanger\lib\weblaf-1.25.jar
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\LoLVOChanger\LVOC.exe
+D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe.config
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe.manifest
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.application
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\EasySharpToolRework.exe
@@ -218,7 +218,6 @@ D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\Eas
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\MahApps.Metro.xml
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\SharpDX.Toolkit.xml
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\bin\Debug\SharpDX.Toolkit.Graphics.xml
-D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\EasySharpToolRework.csprojResolveAssemblyReference.cache
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\Resources\Icons.baml
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\SpellInfoWindow.baml
 D:\Github\LeagueSharp\LeagueSharp_Related_Programs\Tools\EasySharpToolRework\EasySharpToolRework\obj\Debug\App.baml

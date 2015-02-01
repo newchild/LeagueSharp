@@ -15,34 +15,6 @@
             <ComboBoxItem x:Name="Annie" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem x:Name="Ashe" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
             <ComboBoxItem x:Name="Azir" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy8" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy9" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy10" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy11" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy12" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy13" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy14" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy15" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy16" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy17" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy18" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy19" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy20" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy21" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy22" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy23" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy24" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy25" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy26" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy27" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy28" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy29" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy30" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy31" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy32" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy33" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy34" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
-            <ComboBoxItem x:Name="Aatrox_Copy35" Content="Aatrox" HorizontalAlignment="Left" Width="118"/>
         </ComboBox>
         <Label Content="Champion:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="68"/>
         <Label Content="Spell Slot:" HorizontalAlignment="Left" Margin="208,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.316,0.346"/>

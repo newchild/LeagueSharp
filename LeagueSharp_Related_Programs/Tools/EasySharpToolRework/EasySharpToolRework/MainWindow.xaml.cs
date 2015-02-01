@@ -14,6 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Microsoft.Win32;
 using MahApps.Metro;
 
 namespace EasySharpToolRework
@@ -21,6 +22,15 @@ namespace EasySharpToolRework
     public partial class MainWindow : MahApps.Metro.Controls.MetroWindow
     { 
         private static SpellInfoWindow SpellInfoWindow = new SpellInfoWindow();
+        public static bool DoesRegKeyExist(string valueName)
+        {
+            if (Registry.ClassesRoot.GetValue(valueName) == null)
+            {
+                return false;
+            }
+            return true;
+        }
+
         //HyunMi Profile Button
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -144,13 +154,22 @@ namespace EasySharpToolRework
         //install button fix
         private void Button_Click_20(object sender, RoutedEventArgs e)
         {
-
+            if (DoesRegKeyExist("ls"))
+                {
+                    Registry.ClassesRoot.CreateSubKey("ls");
+                }
+                RegistryKey key = Registry.ClassesRoot.OpenSubKey("ls", true);
+                string name = "URL Protocol";
+                string str2 = "";
+                key.SetValue(name, str2, RegistryValueKind.String);
+                key.Close();
+                MessageBox.Show("Registry key edited, Install button should be fixed try again.", "Important Message");
         }
 
         //L# database
         private void Button_Click_21(object sender, RoutedEventArgs e)
         {
-
+            System.Diagnostics.Process.Start("http://lsharp.wouter2203.com/");
         }
     }
 }

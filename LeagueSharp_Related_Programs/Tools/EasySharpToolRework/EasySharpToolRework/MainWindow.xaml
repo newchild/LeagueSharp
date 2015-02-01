@@ -34,7 +34,7 @@
         <Button Content="DataBase" HorizontalAlignment="Left" Margin="218,207,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_21"/>
         <Button Content="LoLBuilder" HorizontalAlignment="Left" Margin="114,117,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_12"/>
         <Button Content="loLVOChanger" HorizontalAlignment="Left" Margin="114,147,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_13"/>
-        <Button Content="Spells Info" HorizontalAlignment="Left" Margin="114,177,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_14"/>
+        <Button Content="Spells Info" HorizontalAlignment="Left" Margin="114,177,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_14" ToolTip="Not yet implemented."/>
         <Button Content="LES" HorizontalAlignment="Left" Margin="114,207,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_15"/>
         <Button Content="Install Button Fix" HorizontalAlignment="Left" Margin="218,177,0,0" VerticalAlignment="Top" Width="197" Click="Button_Click_20"/>
     </Grid>
