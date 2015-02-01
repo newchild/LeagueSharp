@@ -2262,7 +2262,7 @@ namespace EasySharpToolRework
             #endregion Cassiopiea
 
             //Cho'Gath
-            #region Cho'Gath
+            #region ChoGath
             SpellsInfo[0, 0, 0] = "ChampionName";
 
             SpellsInfo[0, 1, 0] = SpellsInfo[0, 0, 0];
@@ -2396,7 +2396,7 @@ namespace EasySharpToolRework
             SpellsInfo[0, 3, 21] = "W AP Scaling";
             SpellsInfo[0, 4, 21] = "E AP Scaling";
             SpellsInfo[0, 5, 21] = "R AP Scaling";
-            #endregion Cho'gath
+            #endregion Chogath
 
             //Corki
             #region Corki

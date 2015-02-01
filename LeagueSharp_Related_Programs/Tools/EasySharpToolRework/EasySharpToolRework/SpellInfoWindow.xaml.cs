@@ -21,5 +21,9 @@ namespace EasySharpToolRework
     public partial class SpellInfoWindow : MetroWindow
     {
 
+        private void ChampionDropDownBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
