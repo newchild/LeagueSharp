@@ -42,6 +42,11 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualStudio.DebuggerVisualizers" version="12.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="clipper_library.dll" size="63488">
       <assemblyIdentity name="clipper_library" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -61,7 +66,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZrRxo303Zh3dX87QV8ylAi1lEUn6vcG7pIH/M2tpp4g=</dsig:DigestValue>
+        <dsig:DigestValue>MbPYesnGigARJtEkFlbq6h90M7R7r3rXxreQ66xe7H0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -78,14 +83,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LeagueSharp.Common.dll" size="777216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LeagueSharp.Common.dll" size="781824">
       <assemblyIdentity name="LeagueSharp.Common" version="1.0.0.27" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0KjGAN6u02/d01fuK03xThOkhnJ1Up2Pq+N9RwcU5IQ=</dsig:DigestValue>
+        <dsig:DigestValue>k9hf2scmR2ot6FU2541RaDshkhcJznnb8BaY3SFWXxQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
