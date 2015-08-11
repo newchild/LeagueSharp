@@ -23,12 +23,18 @@ namespace RoachIsAFag
 		private static Menu Settings;
 		private static Dictionary<string, Spell> Spells = new Dictionary<string,Spell>
 		{
-														 {"MasterYi", new Spell(SpellSlot.Q, 620)}
+														 {"MasterYi", new Spell(SpellSlot.Q, 620)},
+														 {"Morgana", new Spell(SpellSlot.E, 0f)},
+														 {"Fizz", new Spell(SpellSlot.E, 0f)}
 													 };
 		private static Dictionary<string, Action> Logic = new Dictionary<string,Action>
 		{
-													   {"MasterYi", new Action(MasterYiDodge)}
+													   {"MasterYi", new Action(MasterYiDodge)},
+													   {"Morgana", new Action(MorganaDodge)},
+
 												   };
+
+		
 		private static Dictionary<string, float> EvadeableSpellsExtraBuffer = new Dictionary<string, float>
 		{
 														 {"KarthusFallenOne", 2400f}
@@ -40,7 +46,7 @@ namespace RoachIsAFag
 		{
 			Hero = ObjectManager.Player.ChampionName;
 			Obj_AI_Hero.OnProcessSpellCast += Obj_AI_Hero_OnProcessSpellCast;
-			Game.OnStart += Game_OnStart;
+			Load.OnLoad += Game_OnStart;
 		}
 
 		static void Game_OnStart(EventArgs args)
@@ -100,6 +106,11 @@ namespace RoachIsAFag
 
 			LogicTimer.Enabled = false;
 
+		}
+		private static void MorganaDodge()
+		{
+			Spells[Hero].Cast(ObjectManager.Player);
+			LogicTimer.Enabled = false;
 		}
 	}
 }
