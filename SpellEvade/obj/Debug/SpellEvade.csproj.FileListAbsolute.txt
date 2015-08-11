@@ -1,1 +1,2 @@
 C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\SDKSpellEvade.exe.config
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\obj\Debug\SpellEvade.csprojResolveAssemblyReference.cache

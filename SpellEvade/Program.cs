@@ -10,6 +10,7 @@ using LeagueSharp.SDK.Core.Extensions;
 using LeagueSharp.SDK.Core.UI;
 using LeagueSharp.SDK.Core.UI.IMenu.Values;
 using LeagueSharp.SDK.Core.Utils;
+using LeagueSharp.SDK.Core.UI.IMenu;
 using LeagueSharp.SDK.Core.Wrappers;
 using System.Threading.Tasks;
 using LeagueSharp.SDK.Core.Wrappers;
@@ -19,6 +20,7 @@ namespace RoachIsAFag
 {
 	class Program
 	{
+		private static Menu Settings;
 		private static Dictionary<string, Spell> Spells = new Dictionary<string,Spell>
 		{
 														 {"MasterYi", new Spell(SpellSlot.Q, 620)}
@@ -27,7 +29,10 @@ namespace RoachIsAFag
 		{
 													   {"MasterYi", new Action(MasterYiDodge)}
 												   };
-
+		private static Dictionary<string, float> EvadeableSpellsExtraBuffer = new Dictionary<string, float>
+		{
+														 {"KarthusFallenOne", 2400f}
+													 };
 		
 		private static string Hero;
 		private static System.Timers.Timer LogicTimer = new System.Timers.Timer();
@@ -35,10 +40,27 @@ namespace RoachIsAFag
 		{
 			Hero = ObjectManager.Player.ChampionName;
 			Obj_AI_Hero.OnProcessSpellCast += Obj_AI_Hero_OnProcessSpellCast;
+			Game.OnStart += Game_OnStart;
+		}
+
+		static void Game_OnStart(EventArgs args)
+		{
+			Settings = new Menu("Root", "SpellEvade Settings", true);
+			Settings.Add(new MenuSlider("Root.Delay", "Dodge Delay", 3, -3));
+			Settings.Add(new MenuSeparator("Root.DelayDescription1", "Lower this if you dodge too late, higher it if you dodge to early"));
+			Settings.Add(new MenuSeparator("Root.DelayDescription2", "Be aware that little changes might already have high influence, also negative numbers are not recommended"));
 		}
 
 		static void Obj_AI_Hero_OnProcessSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
 		{
+			if (EvadeableSpellsExtraBuffer.ContainsKey(args.SData.Name))
+			{
+				LogicTimer.Elapsed += new ElapsedEventHandler(GenericLogic);
+				LogicTimer.Interval = (args.SData.SpellCastTime * -1000) + Settings["Root.Delay"].GetValue<MenuSlider>() * 100 + EvadeableSpellsExtraBuffer[args.SData.Name]; //0.3 second buffer + add the specific timer
+				LogicTimer.Enabled = true;
+				return;
+
+			}
 			if (sender.IsMinion)
 				return;
 			if (!args.Target.IsMe || args.SData.ConsideredAsAutoAttack || !sender.IsEnemy)
