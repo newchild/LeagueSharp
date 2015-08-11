@@ -1,1 +1,0 @@
-  trait slot QName(PrivateNamespace(null, "com.riotgames.pvpnet.docked.friendlist.view:FriendScroller"), "offlineGroup") type QName(PackageNamespace("com.riotgames.rust.components.grouplist"), "GroupModel") end

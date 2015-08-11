@@ -1,0 +1,12 @@
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\obj\Debug\RoachIsAFag.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\LeagueSharp.dll
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\LeagueSharp.SDK.dll
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\SharpDX.dll
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\Newtonsoft.Json.dll
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\LeagueSharp.xml
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\SDKSpellEvade.exe.config
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\SDKSpellEvade.exe
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\bin\Debug\SDKSpellEvade.pdb
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\obj\Debug\SDKSpellEvade.exe
+c:\users\fabian\documents\visual studio 2013\Projects\RoachIsAFag\RoachIsAFag\obj\Debug\SDKSpellEvade.pdb

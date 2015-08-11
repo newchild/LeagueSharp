@@ -1,1 +1,0 @@
-D:\github\LeagueSharp\LeagueSharpAssemblies\Champions\Thresh\ThreshFlay\ThreshFlay\bin\Release\ThreshFlay.exe.config
