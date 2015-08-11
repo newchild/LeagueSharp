@@ -46,10 +46,10 @@ namespace RoachIsAFag
 		{
 			Hero = ObjectManager.Player.ChampionName;
 			Obj_AI_Hero.OnProcessSpellCast += Obj_AI_Hero_OnProcessSpellCast;
-			Load.OnLoad += Game_OnStart;
+			Load.OnLoad +=Load_OnLoad;
 		}
 
-		static void Game_OnStart(EventArgs args)
+		private static void Load_OnLoad(object sender, EventArgs e)
 		{
 			Settings = new Menu("Root", "SpellEvade Settings", true);
 			Settings.Add(new MenuSlider("Root.Delay", "Dodge Delay", 3, -3));
@@ -57,6 +57,7 @@ namespace RoachIsAFag
 			Settings.Add(new MenuSeparator("Root.DelayDescription2", "Be aware that little changes might already have high influence, also negative numbers are not recommended"));
 			Settings.Attach();
 		}
+
 
 		static void Obj_AI_Hero_OnProcessSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
 		{
