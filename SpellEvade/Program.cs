@@ -56,7 +56,7 @@ namespace RoachIsAFag
 			if (EvadeableSpellsExtraBuffer.ContainsKey(args.SData.Name))
 			{
 				LogicTimer.Elapsed += new ElapsedEventHandler(GenericLogic);
-				LogicTimer.Interval = (args.SData.SpellCastTime * -1000) + Settings["Root.Delay"].GetValue<MenuSlider>() * 100 + EvadeableSpellsExtraBuffer[args.SData.Name]; //0.3 second buffer + add the specific timer
+				LogicTimer.Interval = (args.SData.SpellCastTime * -1000) + Settings["Root.Delay"].GetValue<MenuSlider>().Value * 100 + EvadeableSpellsExtraBuffer[args.SData.Name]; //0.3 second buffer + add the specific timer
 				LogicTimer.Enabled = true;
 				return;
 

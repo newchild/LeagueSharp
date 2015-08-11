@@ -1,2 +1,12 @@
 C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\SDKSpellEvade.exe.config
 C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\obj\Debug\SpellEvade.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\SDKSpellEvade.exe
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\SDKSpellEvade.pdb
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\LeagueSharp.dll
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\LeagueSharp.SDK.dll
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\SharpDX.dll
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\bin\Debug\LeagueSharp.xml
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\obj\Debug\SDKSpellEvade.exe
+C:\Users\Fabian\Documents\GitHub\LeagueSharp\SpellEvade\obj\Debug\SDKSpellEvade.pdb
